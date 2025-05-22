@@ -7,6 +7,7 @@ servers:
 paths:
   /:
     post:
+      operationId: generateDoc
       summary: Genereer bewerkbaar .docx-leermiddelenbeleid
       requestBody:
         required: true
@@ -30,5 +31,5 @@ paths:
               schema:
                 type: object
                 properties:
-                  download_url: 
+                  download_url:
                     type: string
