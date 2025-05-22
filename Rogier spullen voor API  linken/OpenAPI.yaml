@@ -1,4 +1,4 @@
-openapi: 3.0.1
+openapi: "3.1.0"
 info:
   title: GPT Docs Generator
   version: "1.0"
@@ -15,7 +15,9 @@ paths:
           application/json:
             schema:
               type: object
-              required: [title, content]
+              required:
+                - title
+                - content
               properties:
                 title:
                   type: string
