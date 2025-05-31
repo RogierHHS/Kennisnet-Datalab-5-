@@ -3,14 +3,14 @@ import openai
 import base64
 from pathlib import Path
 
-# ---- OpenAIChatbot class zoals je eerder had ----
+# ---- OpenAIChatbot class----
 class OpenAIChatbot:
     def __init__(self, api_key):
         self.api_key = api_key
         self.client = openai.OpenAI(api_key=self.api_key)
         self.model = "gpt-4o"
         self.history = [self._get_system_prompt()]
-        self.total_cost = 0.0  # In USD
+        self.total_cost = 0.0  # In USD (misschien nog even omzetten naar EU koers)
 
     def _get_system_prompt(self):
         with open("system-prompts.txt", encoding="utf-8") as f:
@@ -42,7 +42,7 @@ class OpenAIChatbot:
         self.total_cost += cost
         return answer, cost, self.total_cost
 
-# --- Custom CSS for background and layout ---
+# --- Custom CSS voor de achtergrond en layout ---
 st.markdown(
     """
     <style>
