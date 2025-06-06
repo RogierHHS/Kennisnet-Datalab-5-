@@ -6,7 +6,7 @@ import os
 import json
 from datetime import datetime
 
-# ============ SETTINGS ============
+# ============ SETTINGS ============ 
 CHATDIR = "chats"
 if not os.path.exists(CHATDIR):
     os.makedirs(CHATDIR)
@@ -70,7 +70,6 @@ class OpenAIChatbot:
 
 # ============ MEMORY MANAGEMENT ============
 def get_chat_ids_and_titles():
-    """Laad chat-bestanden en maak voor elk een naam van de eerste user input."""
     chat_files = [f for f in os.listdir(CHATDIR) if f.endswith(".json")]
     chat_ids = []
     chat_titles = []
@@ -79,7 +78,6 @@ def get_chat_ids_and_titles():
         try:
             with open(os.path.join(CHATDIR, f), encoding="utf-8") as fp:
                 history = json.load(fp)
-            # Pak eerste user-bericht als titel
             first_user = next((m["content"] for m in history if m["role"] == "user"), None)
             if first_user:
                 title = first_user.strip().split("\n")[0][:40]
@@ -104,7 +102,6 @@ def new_chat_id():
     return datetime.now().strftime("chat-%Y%m%d-%H%M%S")
 
 # ============ STREAMLIT LAYOUT ============
-
 st.markdown(
     """
     <style>
@@ -143,14 +140,10 @@ api_key = st.sidebar.text_input("Vul je OpenAI API key in:", type="password")
 st.sidebar.markdown("---")
 chat_ids, chat_titles = get_chat_ids_and_titles()
 
-# --- Nieuw: Selectbox toont niks (lege chat) totdat gebruiker iets kiest ---
-chosen_idx = None
-chosen = None
-if chat_titles:
-    chosen_idx = st.sidebar.selectbox("Kies een gesprek (optioneel)", [-1] + list(range(len(chat_ids))),
-                                      format_func=lambda i: "Nieuwe chat" if i == -1 else chat_titles[i])
-    if chosen_idx != -1:
-        chosen = chat_ids[chosen_idx]
+# --- Nieuw: Selectbox met bovenaan "Nieuwe chat"
+options = ["Nieuwe chat"] + chat_titles
+chosen_idx = st.sidebar.selectbox("Kies een gesprek", range(len(options)), format_func=lambda i: options[i])
+chosen = None if chosen_idx == 0 else chat_ids[chosen_idx - 1]
 
 if "costs" in st.session_state and st.session_state["costs"]:
     st.sidebar.write(f"**Totale kosten:** ${sum(st.session_state['costs']):.6f} USD")
@@ -166,30 +159,27 @@ if st.sidebar.button("Start nieuw gesprek"):
 if "active_chat_id" not in st.session_state:
     st.session_state["active_chat_id"] = None
 
-# --- BELANGRIJK: Standaard altijd lege chat, tenzij user zelf chat selecteert ---
-if chosen is not None and api_key:
-    # Laad bestaande chat
-    if st.session_state.get("active_chat_id") != chosen:
-        history = load_history(chosen)
-        st.session_state["messages"] = history
-        st.session_state["costs"] = []  # (je kan hier eventueel per-chat kosten laden)
-        st.session_state["active_chat_id"] = chosen
-else:
-    # Altijd starten met lege chat, tenzij user iets kiest
+if chosen is None or not api_key:
     if "messages" not in st.session_state:
         st.session_state["messages"] = []
     if "costs" not in st.session_state:
         st.session_state["costs"] = []
     st.session_state["active_chat_id"] = None
+else:
+    # Laad bestaande chat
+    if st.session_state.get("active_chat_id") != chosen:
+        history = load_history(chosen)
+        st.session_state["messages"] = history
+        st.session_state["costs"] = []
+        st.session_state["active_chat_id"] = chosen
 
-# ---- Chatbot instance: Altijd geldig maken! ----
-if (
-    "chatbot" not in st.session_state
-    or st.session_state["chatbot"] is None
-) and api_key:
-    st.session_state["chatbot"] = OpenAIChatbot(api_key=api_key, history=st.session_state.get("messages", []))
+# ---- Chatbot instance ----
+if "chatbot" not in st.session_state or st.session_state["chatbot"] is None:
+    if api_key:
+        st.session_state["chatbot"] = OpenAIChatbot(api_key=api_key, history=st.session_state.get("messages", []))
 elif (
-    isinstance(st.session_state.get("chatbot"), OpenAIChatbot)
+    "chatbot" in st.session_state
+    and st.session_state["chatbot"] is not None
     and st.session_state["chatbot"].api_key != api_key
 ):
     st.session_state["chatbot"] = OpenAIChatbot(api_key=api_key, history=st.session_state.get("messages", []))
@@ -221,12 +211,27 @@ with st.form(key="chat_form", clear_on_submit=True):
         placeholder="Typ hier je vraag..."
     )
     submitted = st.form_submit_button("Verstuur")
-    if submitted and user_input and api_key and "chatbot" in st.session_state:
+
+    # ------------- FIX: garandeer chatbot instance ---------
+    if (
+        "chatbot" not in st.session_state
+        or st.session_state["chatbot"] is None
+    ):
+        if api_key:
+            st.session_state["chatbot"] = OpenAIChatbot(api_key=api_key, history=st.session_state.get("messages", []))
+    # -------------------------------------------------------
+
+    if (
+        submitted
+        and user_input
+        and api_key
+        and "chatbot" in st.session_state
+        and st.session_state["chatbot"] is not None
+    ):
         answer, cost, total_cost = st.session_state["chatbot"].ask(user_input)
         st.session_state["messages"].append({"role": "user", "content": user_input})
         st.session_state["messages"].append({"role": "assistant", "content": answer})
         st.session_state["costs"].append(cost)
-        # --- Sla geschiedenis op, met nieuwe chat_id als die nog niet bestaat
         if not st.session_state.get("active_chat_id"):
             chat_id = new_chat_id()
             st.session_state["active_chat_id"] = chat_id

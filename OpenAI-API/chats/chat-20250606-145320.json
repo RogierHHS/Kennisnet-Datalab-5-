@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "Hallo!, wat is jou doel?"
+  },
+  {
+    "role": "assistant",
+    "content": "Hallo! Mijn doel is om scholen te helpen bij het opstellen van een concept-leermiddelenbeleid. Dit beleid draait om hoe leermiddelen binnen de school worden geselecteerd, aangeschaft en gebruikt. We gaan samen door een reeks gestructureerde vragen om een persoonlijk en effectief beleid te creëren. Heb je specifieke documenten zoals een schoolgids, beleidsplan, of ICT-beleid die je wilt uploaden als referentie? Dit kan helpen om een beleid op maat te maken. Ook, wat is de naam en locatie van je school, en welk type onderwijs geef je?"
+  }
+]
