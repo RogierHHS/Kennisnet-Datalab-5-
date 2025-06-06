@@ -2,23 +2,49 @@ import streamlit as st
 import openai
 import base64
 from pathlib import Path
+import os
+import json
+from datetime import datetime
 
-# ---- OpenAIChatbot class----
+# ============ SETTINGS ============
+CHATDIR = "chats"
+if not os.path.exists(CHATDIR):
+    os.makedirs(CHATDIR)
+
+# ============ CHATBOT CLASS ============
 class OpenAIChatbot:
-    def __init__(self, api_key):
+    def __init__(self, api_key, history=None):
         self.api_key = api_key
         self.client = openai.OpenAI(api_key=self.api_key)
         self.model = "gpt-4o"
-        self.history = [self._get_system_prompt()]
-        self.total_cost = 0.0  # In USD (misschien nog even omzetten naar EU koers)
+        self.history = history or [self._get_system_prompt()]
+        self.total_cost = 0.0
+        self.kennisbank = self._load_beleidsvoorbeelden("Beleidsvoorbeelden")
 
     def _get_system_prompt(self):
         with open("system-prompts.txt", encoding="utf-8") as f:
             system_prompt = f.read()
-        return {
-            "role": "system",
-            "content": system_prompt
-        }
+        return {"role": "system", "content": system_prompt}
+
+    def _load_beleidsvoorbeelden(self, folder_path):
+        kennisbank = {}
+        if not os.path.isdir(folder_path):
+            print(f"Let op: map '{folder_path}' bestaat niet!")
+            return kennisbank
+        for fname in os.listdir(folder_path):
+            if fname.endswith(".txt"):
+                with open(os.path.join(folder_path, fname), encoding="utf-8") as f:
+                    kennisbank[fname] = f.read()
+        print(f"{len(kennisbank)} beleidsvoorbeelden geladen!")
+        return kennisbank
+
+    def _zoek_inspiratie(self, vraag):
+        resultaten = []
+        for doc in self.kennisbank.values():
+            for para in doc.split('\n\n'):
+                if any(kw.lower() in para.lower() for kw in vraag.split()):
+                    resultaten.append(para.strip())
+        return resultaten[:3]
 
     def _calculate_cost(self, response):
         usage = response.usage
@@ -34,7 +60,7 @@ class OpenAIChatbot:
         response = self.client.chat.completions.create(
             model=self.model,
             messages=self.history,
-            max_tokens=500
+            max_tokens=1000
         )
         answer = response.choices[0].message.content
         self.history.append({"role": "assistant", "content": answer})
@@ -42,59 +68,60 @@ class OpenAIChatbot:
         self.total_cost += cost
         return answer, cost, self.total_cost
 
-# --- Custom CSS voor de achtergrond en layout ---
+# ============ MEMORY MANAGEMENT ============
+def get_chat_ids_and_titles():
+    """Laad chat-bestanden en maak voor elk een naam van de eerste user input."""
+    chat_files = [f for f in os.listdir(CHATDIR) if f.endswith(".json")]
+    chat_ids = []
+    chat_titles = []
+    for f in sorted(chat_files):
+        chat_id = f[:-5]
+        try:
+            with open(os.path.join(CHATDIR, f), encoding="utf-8") as fp:
+                history = json.load(fp)
+            # Pak eerste user-bericht als titel
+            first_user = next((m["content"] for m in history if m["role"] == "user"), None)
+            if first_user:
+                title = first_user.strip().split("\n")[0][:40]
+                title = (title + "...") if len(title) >= 40 else title
+            else:
+                title = "Onbenoemd gesprek"
+        except Exception:
+            title = "Onbenoemd gesprek"
+        chat_ids.append(chat_id)
+        chat_titles.append(f"{title} ({chat_id[-6:]})")
+    return chat_ids, chat_titles
+
+def load_history(chat_id):
+    with open(os.path.join(CHATDIR, f"{chat_id}.json"), encoding="utf-8") as f:
+        return json.load(f)
+
+def save_history(chat_id, history):
+    with open(os.path.join(CHATDIR, f"{chat_id}.json"), "w", encoding="utf-8") as f:
+        json.dump(history, f, ensure_ascii=False, indent=2)
+
+def new_chat_id():
+    return datetime.now().strftime("chat-%Y%m%d-%H%M%S")
+
+# ============ STREAMLIT LAYOUT ============
+
 st.markdown(
     """
     <style>
-    .stApp {
-        background-color: #b8c7df !important; /* Donkerder blauw */
-    }
-    .centered-logo {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        margin-bottom: 14px;
-        margin-top: 34px;  /* meer ruimte boven */
-    }
-    .chatblock {
-        border-radius: 10px;
-        padding: 18px 16px 15px 16px;
-        margin-bottom: 10px;
-        font-size: 1.07em;
-        box-shadow: 0 2px 18px 0 rgba(50,50,93,0.08), 0 1.5px 4px 0 rgba(0,0,0,0.03);
-        border: 1.5px solid #b8c7df; /* Zelfde kleur als achtergrond */
-        background: #f7fafd;
-    }
-    .userblock {
-        border-left: 6px solid #4092ff;
-        background: #e6edfa;
-    }
-    .aiblock {
-        border-left: 6px solid #7c3aed;
-        background: #e8e6fa;
-    }
-    hr {
-        margin: 9px 0 15px 0;
-        border: none;
-        border-top: 2px solid #b5c6e0;
-    }
-    .block-container {
-        padding-top: 1.1rem;
-        max-width: 850px !important;
-    }
+    .stApp { background-color: #b8c7df !important; }
+    .centered-logo { display: flex; justify-content: center; align-items: center; margin-bottom: 14px; margin-top: 34px; }
+    .chatblock { border-radius: 10px; padding: 18px 16px 15px 16px; margin-bottom: 10px; font-size: 1.07em;
+        box-shadow: 0 2px 18px 0 rgba(50,50,93,0.08), 0 1.5px 4px 0 rgba(0,0,0,0.03); border: 1.5px solid #b8c7df; background: #f7fafd; }
+    .userblock { border-left: 6px solid #4092ff; background: #e6edfa; }
+    .aiblock { border-left: 6px solid #7c3aed; background: #e8e6fa; }
+    hr { margin: 9px 0 15px 0; border: none; border-top: 2px solid #b5c6e0; }
+    .block-container { padding-top: 1.1rem; max-width: 850px !important; }
+    .stTextInput > div > input { font-size: 18px; padding: 12px 10px; border-radius: 7px;}
     </style>
     """,
     unsafe_allow_html=True
 )
 
-# ---- Sidebar voor API-key en kosten ----
-st.sidebar.title("OpenAI instellingen")
-api_key = st.sidebar.text_input("Vul je OpenAI API key in:", type="password")
-if "costs" in st.session_state and st.session_state["costs"]:
-    st.sidebar.markdown("---")
-    st.sidebar.write(f"**Totale kosten:** ${sum(st.session_state['costs']):.6f} USD")
-
-# ---- Logo bovenaan gecentreerd, lokaal geladen ----
 def show_logo():
     logo_path = "Kennisnet-logo-3744555391.png"
     logo_bytes = Path(logo_path).read_bytes()
@@ -107,19 +134,67 @@ def show_logo():
         """,
         unsafe_allow_html=True
     )
-
 show_logo()
 st.markdown("<h1 style='text-align: center; margin-bottom:15px;'>Leermiddelenbeleid AI</h1>", unsafe_allow_html=True)
 
-# ---- Chatbot & State ----
-if "chatbot" not in st.session_state and api_key:
-    st.session_state["chatbot"] = OpenAIChatbot(api_key=api_key)
-if "messages" not in st.session_state:
-    st.session_state["messages"] = []
-if "costs" not in st.session_state:
-    st.session_state["costs"] = []
+# ---- Sidebar ----
+st.sidebar.title("OpenAI instellingen")
+api_key = st.sidebar.text_input("Vul je OpenAI API key in:", type="password")
+st.sidebar.markdown("---")
+chat_ids, chat_titles = get_chat_ids_and_titles()
 
-# ---- Chatgeschiedenis tonen (prompts met lijnen) ----
+# --- Nieuw: Selectbox toont niks (lege chat) totdat gebruiker iets kiest ---
+chosen_idx = None
+chosen = None
+if chat_titles:
+    chosen_idx = st.sidebar.selectbox("Kies een gesprek (optioneel)", [-1] + list(range(len(chat_ids))),
+                                      format_func=lambda i: "Nieuwe chat" if i == -1 else chat_titles[i])
+    if chosen_idx != -1:
+        chosen = chat_ids[chosen_idx]
+
+if "costs" in st.session_state and st.session_state["costs"]:
+    st.sidebar.write(f"**Totale kosten:** ${sum(st.session_state['costs']):.6f} USD")
+
+if st.sidebar.button("Start nieuw gesprek"):
+    st.session_state["messages"] = []
+    st.session_state["costs"] = []
+    st.session_state["active_chat_id"] = None
+    st.session_state["chatbot"] = None
+    st.rerun()
+
+# ---- Start nieuwe chat of laad bestaande ----
+if "active_chat_id" not in st.session_state:
+    st.session_state["active_chat_id"] = None
+
+# --- BELANGRIJK: Standaard altijd lege chat, tenzij user zelf chat selecteert ---
+if chosen is not None and api_key:
+    # Laad bestaande chat
+    if st.session_state.get("active_chat_id") != chosen:
+        history = load_history(chosen)
+        st.session_state["messages"] = history
+        st.session_state["costs"] = []  # (je kan hier eventueel per-chat kosten laden)
+        st.session_state["active_chat_id"] = chosen
+else:
+    # Altijd starten met lege chat, tenzij user iets kiest
+    if "messages" not in st.session_state:
+        st.session_state["messages"] = []
+    if "costs" not in st.session_state:
+        st.session_state["costs"] = []
+    st.session_state["active_chat_id"] = None
+
+# ---- Chatbot instance: Altijd geldig maken! ----
+if (
+    "chatbot" not in st.session_state
+    or st.session_state["chatbot"] is None
+) and api_key:
+    st.session_state["chatbot"] = OpenAIChatbot(api_key=api_key, history=st.session_state.get("messages", []))
+elif (
+    isinstance(st.session_state.get("chatbot"), OpenAIChatbot)
+    and st.session_state["chatbot"].api_key != api_key
+):
+    st.session_state["chatbot"] = OpenAIChatbot(api_key=api_key, history=st.session_state.get("messages", []))
+
+# ---- Chatgeschiedenis tonen ----
 def show_chat():
     for i, msg in enumerate(st.session_state["messages"]):
         if msg["role"] == "user":
@@ -132,18 +207,30 @@ def show_chat():
                 f"<div class='chatblock aiblock'><b>Leermiddelenbeleid AI:</b> {msg['content']}</div>",
                 unsafe_allow_html=True
             )
-        # Duidelijke lijn tussen prompts, behalve na laatste prompt
         if i < len(st.session_state["messages"]) - 1:
             st.markdown("<hr>", unsafe_allow_html=True)
-
-# ---- Inputveld ONDERAAN de pagina ----
 show_chat()
-with st.container():
-    user_input = st.text_input("Stel je vraag...", key="user_input", label_visibility="hidden", placeholder="Typ hier je vraag...")
-    send = st.button("Verstuur")
-    if send and user_input and api_key and "chatbot" in st.session_state:
+
+# ---- Inputveld met ENTER/submit (géén button), leeg na verzenden ----
+with st.form(key="chat_form", clear_on_submit=True):
+    user_input = st.text_input(
+        "Typ je bericht en druk op Enter...",
+        key="user_input",
+        value="",
+        label_visibility="hidden",
+        placeholder="Typ hier je vraag..."
+    )
+    submitted = st.form_submit_button("Verstuur")
+    if submitted and user_input and api_key and "chatbot" in st.session_state:
         answer, cost, total_cost = st.session_state["chatbot"].ask(user_input)
         st.session_state["messages"].append({"role": "user", "content": user_input})
         st.session_state["messages"].append({"role": "assistant", "content": answer})
         st.session_state["costs"].append(cost)
+        # --- Sla geschiedenis op, met nieuwe chat_id als die nog niet bestaat
+        if not st.session_state.get("active_chat_id"):
+            chat_id = new_chat_id()
+            st.session_state["active_chat_id"] = chat_id
+        else:
+            chat_id = st.session_state["active_chat_id"]
+        save_history(chat_id, st.session_state["messages"])
         st.rerun()

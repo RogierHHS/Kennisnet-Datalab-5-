@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "Hallo!"
+  },
+  {
+    "role": "assistant",
+    "content": "Goedendag! We gaan samen aan de slag met het opstellen van een concept-leermiddelenbeleid voor jouw school. Dit proces bestaat uit meerdere hoofdstukken waarin we specifieke vragen behandelen. Voor optimale resultaten is het handig om documenten zoals het koersplan, ICT-beleid, en relevante beleids- en jaarplannen bij de hand te houden. Ook kun je gedurende dit proces documenten, links of tekstfragmenten uploaden.\n\nHet is aan te raden om deze sessie samen met een werkgroep te doen, bestaande uit bijvoorbeeld een schoolleider, ICT-coördinator, vakgroep leider of leermiddelencoördinator.\n\nVoordat we beginnen, zou ik graag eerst de naam van de school, de locatie en het type onderwijs willen weten. Is het goed als ik de school op het internet opzoek voor meer informatie? En als deze informatie klopt, laat het dan ook even weten, zodat we verder kunnen. \n\nKun je me de gevraagde gegevens geven?"
+  }
+]

@@ -1,0 +1,725 @@
+Inleiding
+
+1.1 Aanleiding en doel
+
+Het Atlas College bestaat uit vijf scholen voor voortgezet
+onderwijs: Copernicus Scholengemeenschap (vmbo-t,
+
+havo, vwo), De Dijk (vmbo, havo, vwo), OSG West-Friesland,
+(vmbo-t, havo, vwo), Titaan (vmbo) en Triade (vmbo, havo,
+vwo). Op hoofdthema’s trekken de vijf locaties gezamenlijk op,
+om van elkaar te leren en om de schaalgrootte te benutten.
+Leermiddelenbeleid is zo’n hoofdthema.
+
+De belangrijkste aanleiding voor het opstellen van een
+leermiddelenbeleidsplan voor de vijf Atlasscholen zijn de
+vernieuwde ambities van het Atlas College. Leermiddelen
+hebben een belangrijke rol bij het vervullen van die
+ambities. Daarnaast maken de beschikbaarheid van
+
+steeds meer leermiddelen (via internet) en de nieuwe
+financieringssystematiek voor leermiddelen het ontwikkelen
+van leermiddelenbeleid zinvol.
+
+De vraag waar dit leermiddelenbeleidsplan een antwoord op
+wil geven is: Welke leermiddelen hebben we nodig om onze
+onderwijskundige ambities te kunnen realiseren en welke
+consequenties heeft dat voor beleid rond ict, personeel en
+financiën?
+
+Het leermiddelenbeleidsplan is bedoeld voor het (midden)
+management van de vijf Atlasscholen.
+
+Het plan is opgesteld door een werkgroep waarin de vijf
+locaties en het centraal bureau vertegenwoordigd zijn.
+Daarnaast zijn collega’s met deskundigheid op gebied van ict,
+elo, personeelsbeleid en financiën geraadpleegd.
+
+1.2 Van ambities naar
+leermiddelenbeleid
+
+Het Atlas College wil een excellente werkgever zijn en excellent
+onderwijs verzorgen voor een groeiend marktaandeel in West-
+Friesland en Waterland.
+
+Het Atlas College wil vooroplopen in toekomstgericht en
+innovatief onderwijs. Personeel en leerlingen voelen zich
+gestimuleerd om hun talenten maximaal en veelzijdig te
+ontwikkelen en te gebruiken.
+
+Deze nieuwe ambitie is door de kerndirectie uitgewerkt in
+
+een aantal uitspraken die richting geven aan onderwijs en
+personeelsbeleid op de vijf Atlasscholen. Die uitspraken
+hebben we op hun beurt vertaald in criteria voor
+leermiddelen. De criterialijst die zo ontstond is de kern van dit
+leermiddelenbeleidsplan (hoofdstuk 2).
+
+Leermiddelenbeleidsplan
+
+Om te kunnen voldoen aan die criteria hebben docenten tijd
+en bepaalde, misschien nieuwe competenties nodig. Ook
+roepen de criteria wensen op gebied van ict-randvoorwaarden
+op. Een volgende logische vraag is dan: wat kost dat en
+
+hoe verhoudt zich dat tot het huidige boekenfonds- en
+leermiddelenbudget? Bij het uitwerken van de onderwerpen
+personeel, ict en financiën in relatie tot leermiddelenbeleid
+was de conclusie steeds dat de casussen of pilots uit moeten
+wijzen welke concrete gevolgen het werken met de lijst met
+leermiddelencriteria heeft, welke wensen erdoor opgeroepen
+worden. Daarna kan ict-beleid, personeelsbeleid en financieel
+beleid in relatie tot leermiddelen vastgesteld worden. We gaan
+in de hoofdstukken 3 (ict), 4 (personeel) en 5 (financiën) op
+deze onderwerpen in. In het zesde en laatste hoofdstuk staan
+onze voorlopige beleidsvoornemens op Atlasniveau op
+
+een rij.
+
+Het voorliggende leermiddelenbeleidsplan zien we als
+
+een eerste versie. Op elke locatie gaan teams, afdelingen
+en secties ermee werken om de bruikbaarheid van de
+criterialijst en gevolgen voor ict, personeel en financiën te
+onderzoeken en in kaart te brengen. Daartoe zijn verschillende
+casussen gestart, die de werkgroep in januari en april 2010
+zal bespreken. Deze casussen zijn in 2.3 beschreven. Aan
+de hand van feedback uit de locaties en evaluatie van de
+casussen, stellen we het leermiddelenbeleidsplan en de
+beleidsvoornemens bij. Na advisering door de MR zal het
+College van Bestuur in juni 2010 het leermiddelenbeleid
+vaststellen.
+
+1.3 Wat verstaan we onder
+leermiddelen?
+
+We onderscheiden in dit beleidsplan drie soort leermiddelen:
+‘lesmateriaal’, ‘extra leermiddelen’ en ‘hulpmiddelen bij
+
+het leren’. Dit onderscheid kan helpen bij het gesprek over
+leermiddelen en bij het opstellen van financiële kaders.
+
+mm Lesmateriaal
+
+Met lesmateriaal bedoelen we hier lessenreeksen, methodes,
+losse lessen, met een ‘gedidactiseerde inhoud’, ontwikkeld
+voor onderwijssituaties. De criterialijst in het volgende
+hoofdstuk draait voornamelijk om dit soort lesmateriaal omdat
+het de kern van het leerplan vormt en docenten er veel invloed
+op hebben. Je kunt dit lesmateriaal nader indelen in:
+
+« methodes: leerboeken, werkboeken, antwoordenboeken,
+software en andere bijbehorende materialen, meestal
+bedoeld voor meerdere leerjaren, meestal van een
+educatieve uitgeverij;
+
+e eigen lessen: door een individuele docent gemaakt
+lesmateriaal, op papier of digitaal, in beginsel alleen voor
+eigen gebruik;
+
+e lessen van de school: door een groep docenten
+gemaakte lesmaterialen, bijvoorbeeld een boekje voor een
+projectweek, een reeks lessen voor een leergebied of
+bijvoorbeeld toetsen die de hele sectie gebruikt;
+
+° ‘lesbrieven’, lespakketten, een educatief computerspel
+en andere lesmaterialen afkomstig van een organisatie of
+bedrijf, bijvoorbeeld een lespakket van Milieudefensie over
+het regenwoud;
+
+« ‘open leermiddelen’, via internet vrij toegankelijke digitale
+lesmaterialen, van uiteenlopende herkomst, bijvoorbeeld
+wiskundeoefeningen op WisWeb.
+
+Wanneer het totale leermiddelen’arrangement’ onder de
+
+loep wordt genomen kan het zinvol zijn om de actuele en de
+gewenste verhouding (in tijd) tussen deze lesmaterialen in
+kaart te brengen, bijvoorbeeld in dit schema, dat verschillende
+combinatiemogelijkheden laat zien:
+
+ma Extra leermiddelen
+
+In de tweede plaats zijn er allerlei extra leermiddelen voor
+leerlingen: bronnen en instrumenten die niet gemaakt zijn
+met een didactisch doel, maar die wel nodig zijn bij het leren,
+die een rol spelen in het leerplan. Voorbeelden zijn romans
+
+in de mediatheek, websites, musea en tentoonstellingen,
+wandkaarten, atlassen, documentaires, gereedschapsets,
+microscopen, ballen en ander materiaal voor gym. Ze zijn
+
+Leermiddelenbeleidsplan
+
+meestal niet-leerlinggebonden. Door hun karakter ligt het
+niet voor de hand dat docenten zelf dit type leermiddelen
+zullen maken. Ze komen wel in beeld bij afspraken over de
+financiering van alle leermiddelen.
+
+mm Hulpmiddelen bij het leren
+
+Ten derde zijn er hulpmiddelen bij het leren, instrumenten
+die het leren en het lesgeven vergemakkelijken: bord, krijt,
+computers, smartboards, een elo, een digitale infrastructuur,
+enzovoort. Op de digitale hulpmiddelen komen we terug in
+hoofdstuk 3.
+
+De school kan kiezen voor een bepaalde basisvoorziening
+op gebied van deze hulpmiddelen, maar voor een deel
+
+zal de aanschaf afhangen van keuzes in het aanbod van
+lesmateriaal en extra leermiddelen. Op de financiering van deze
+hulpmiddelen komen we terug in hoofdstuk 5.
+
+u methode eigen lessen
+
+methode eigen lessen lessen van de  |open leermiddelen
+school
+e em
+n lessen van de school open leermiddelen
+
+4
+
+Leermiddelenbeleidsplan
+
+Criteria voor leermiddelen die
+passen bij de ambities van het
+
+Atlas College
+
+2.1 Bedoeling en
+gebruiksmogelijkheden
+van de criterialijst
+
+Hiervoor hebben we al beschreven hoe we vanuit onze
+gemeenschappelijke ambities als Atlas College een lijst met
+criteria of voorwaarden hebben geformuleerd die je aan
+leermiddelen kunt stellen. Voor we in 2.2 die lijst presenteren
+lichten we toe wat de bedoeling en gebruiksmogelijkheden
+ervan zijn.
+
+De lijst is geen voorschrift, maar vooral een hulpmiddel
+
+om bewuste keuzes te maken en deze keuzes te kunnen
+verantwoorden. Door het gebruik van de lijst komen hiaten
+
+in beeld en vaksectie, team of afdeling kan gericht naar
+vervangende of aanvullende materialen op zoek gaan, om een
+goed leermiddelenarrangement voor de leerlingen samen te
+stellen.
+
+De meeste criteria gaan over het geheel aan leermiddelen
+voor een vak, voor een leerjaar of voor beide. Het geheel aan
+leermiddelen moet bijvoorbeeld uitdagen tot planning, reflectie
+en evaluatie door de leerling. Dat vraagt om beschouwing
+
+van alle leermiddelen waarmee een leerling in een bepaalde
+periode te maken krijgt.
+
+Enkele criteria hebben betrekking op elk leermiddel. Dit
+betekent dat elke nieuwe methode en elke zelfgemaakte of op
+internet gevonden les hier in principe aan moet voldoen. Een
+voorbeeld daarvan is dat lesmateriaal leesbaar en overzichtelijk
+is.
+
+De criterialijst kan op verschillende manieren gebruikt worden.
+Een vaksectie kan hem benutten bij het kiezen van een nieuwe
+methode. Een team kan het gehele leermiddelenpakket
+waarmee een leerling in een jaar te maken heeft ermee onder
+de loep nemen (ook als er geen nieuwe methodes aangeschaft
+zullen worden). Samen met leerlingen kan gekeken worden
+
+of hun lesmateriaal voldoet aan de criteria die gaan over het
+gebruik door leerlingen. Bij zelf te maken lesmateriaal kan de
+criterialijst houvast geven. Ook bij specifieke problemen kan
+de criterialijst integraal of gedeeltelijk ingezet worden. En de
+lijst kan uiteraard benut worden bij discussies over (de rol van)
+leermiddelen.
+
+In 2.3. schetsen we vijf concrete casussen: situaties op de
+locaties waarin de criterialijst op bruikbaarheid wordt getoetst.
+
+De criterialijst zal wensen oproepen op gebied van scholing
+of ict. In hoofdstuk 3 en 4 gaan we daar verder op in. Over de
+kosten die daarmee samenhangen gaat vervolgens hoofdstuk 5.
+
+Hierna volgen de 22 criteria. In bijlage 1 is een diagnose-variant
+ervan opgenomen, met toelichting van elk criterium en kolommen
+om te kunnen markeren in hoeverre aan elk criterium voldaan is.
+
+2.2 Criterialijst
+
+Criteria vanuit de visie van sectie, team, afdeling
+
+1 Het leermiddel past binnen de visie van team of afdeling
+op leerprocessen en didactiek.
+
+2 Hetleermiddel past binnen de visie van sectie en team of
+afdeling op het product van Ieren.
+
+3 Het geheel aan leermiddelen voor een vak sluit aan bij de
+visie van de sectie op het vak.
+
+4 Het geheel aan leermiddelen voor een vak garandeert dat
+gewerkt wordt in de richting van kerndoelen of eindtermen.
+
+5 Het geheel aan leermiddelen past binnen de doorgaande
+leerlijn voor het vak, elk leermiddel is te plaatsen op die
+leerlijn.
+
+6 Het geheel aan leermiddelen voor een leerjaar is
+toekomstgericht, dat wil zeggen biedt leerstof en
+(mogelijkheden voor) werkvormen die voor leerlingen
+relevant zijn in de (wereldwijde) samenleving van de
+toekomst.
+
+Criteria voor gebruiksmogelijkheden voor de docent
+
+7 Het geheel aan leermiddelen voor een vak en voor
+een leerjaar biedt ten minste bronnen, oefenmateriaal,
+diagnostische toetsen, (grotere) toepassingsopdrachten en
+eindtoetsen.
+
+8 Het geheel aan leermiddelen voor elk vak in elk leerjaar
+bevat een substantieel aantal momenten waarop moderne
+media ingezet worden.
+
+9 Het leermiddel maakt flexibel gebruik mogelijk en laat
+aanpassingen toe.
+
+10 Het geheel aan leermiddelen maakt het mogelijk in
+samenhang te werken aan het verwerven en versterken
+van kennis, vaardigheden en houdingen.
+
+11 Het leermiddel maakt het mogelijk leertaken af te stemmen
+op Ileerstijlen.
+
+12 Het leermiddel stimuleert en activeert voorkennis en legt
+relaties met eerdere leerervaringen.
+
+13 Het geheel aan leermiddelen voor een vak en een leerjaar
+zet aan tot samenwerkend leren en laat leerlingen de
+meerwaarde daarvan ervaren.
+
+14 Het geheel aan leermiddelen maakt passend onderwijs
+voor (groepen) leerlingen mogelijk.
+
+Criteria voor gebruiksgemak en —plezier voor de leerling
+
+15 Het leermiddel is wat betreft structuur en taalgebruik
+toegankelijk voor de leerlingen.
+
+16 Het leermiddel is voor leerlingen uitdagend.
+
+17 Het leermiddel is voor leerlingen inspirerend.
+
+18 Het leermiddel biedt ruimte voor het maken van keuzes
+door de leerling.
+
+Leermiddelenbeleidsplan
+
+19 Het geheel aan leermiddelen daagt uit tot planning,
+reflectie en evaluatie door de leerling opdat hij inzicht
+krijgt in zijn eigen leerproces en zijn eigen leerresultaten
+kan beoordelen.
+
+20 Het leermiddel plaatst leerstof in voor leerlingen relevante,
+herkenbare contexten, zet aan tot toepassen van het
+geleerde in die contexten en laat leerlingen het nut van
+de leerstof in de ‘echte’ wereld en voor hun eigen leven
+ervaren.
+
+Criteria vanuit financieel perspectief
+
+21 Het geheel aan leermiddelen is te bekostigen uit het
+beschikbare budget.
+
+22 Het leermiddel is qua (fysieke) uitvoering geschikt om
+meerdere jaren gebruikt te worden.
+
+2.3 Casussen
+
+Elke locatie zet in het najaar van 2009 een casus op waarbij de
+bruikbaarheid van de criterialijst getoetst wordt en zo mogelijk
+ook consequenties voor ict-beleid, personeelsbeleid en
+financiën in kaart gebracht worden. We volgen deze casussen
+gezamenlijk en verwerken de gegevens in 2010 in de tweede
+versie van dit beleidsplan. In het kort zien de casussen er als
+volgt uit:
+
+EE Copernicus
+
+Voor M&O is door één docent een compleet eigen leergang
+ontwikkeld. Zijn de kosten daarvan in kaart te brengen?
+Voldoet dit materiaal aan de criteria? Wat kost een M&O-
+methode bij een uitgeverij? Doel is een beeld te krijgen van
+investeringskosten en terugverdientijd van het zelf maken van
+een methode t.o.v. het aanschaffen van een methode. Een
+vervolgstap is de situatie te vergelijken met M&O op de OSG.
+
+mm De Dijk
+
+1 De wiskundesectie kiest een nieuwe wiskundemethode, met
+behulp van de criterialijst.
+
+2 Bij Mens en Natuur wordt het gebruik van de methode
+steeds verder teruggedrongen. Dit kan onder andere door de
+inzet van een toa. Is hier een beeld te krijgen van de totale
+(investerings)kosten en verschillen in kosten met het gebruik
+van een methode?
+
+mm OSG
+
+In de derde klas mh moet naast de m-methode ook materiaal
+op h-niveau aangeboden worden. Het team gaat na in hoeverre
+de criterialijst te gebruiken is bij het kiezen en arrangeren van
+geschikte leermiddelen, waarmee de gewenste differentiatie
+wordt bereikt.
+
+mm Titaan
+
+De sectie Nederlands staat voor de keuze van een nieuwe
+methode of nieuwe leermiddelen waarbij er extra aandacht is
+voor versterking van het taalonderwijs. De criterialijst wordt
+hierbij ingezet.
+
+m Triade
+
+Bij het plan voor leermiddelen op locatieniveau worden
+twee ict-scenario’s (ook financieel) uitgewerkt: een open-
+sourcevariant en een alternatieve variant.
+
+Leermiddelenbeleidsplan
+
+Leermiddelenbeleid en
+
+ict-beleid
+
+We constateren dat de ontwikkelingen op het gebied van
+ict steeds meer gevolgen zullen krijgen voor de lespraktijk.
+Het vaker en beter benutten van de mogelijkheden van
+
+ict past ook bij onze ambities om een innovatieve school
+te zijn en excellent onderwijs te verzorgen. Er zijn veel
+relaties tussen leermiddelen en ict. Een aantal daarvan
+belichten we hieronder.
+
+mm Digitale leermiddelen
+
+De beschikbaarheid van digitale leermiddelen is geen
+probleem. Voor alle vakken zijn tegenwoordig veel digitale
+lesmaterialen beschikbaar, via de uitgevers maar vooral via
+internet. Digitale leermiddelen kunnen heel waardevol zijn
+
+om hiaten in het leermiddelenpakket te vullen. Het is wel van
+belang om kritisch naar digitale leermiddelen te kijken. Ze zien
+er vaak mooi en handig uit, maar dat zijn ze niet per definitie.
+Veel digitale programma's bieden echt meerwaarde vergeleken
+met een boek en een schrift, bijvoorbeeld door directe
+feedback en doorverwijzing naar oefenstof op maat, door
+illustraties in beeld of geluid of extra teksten en bronnen achter
+links. Maar soms is een digitaal leermiddel niet meer dan paper
+on screen en biedt het precies dezelfde inhoud en werkvormen
+als het (werk)boek. In bepaalde gevallen kan dat wel praktisch
+zijn, maar de didactische meerwaarde is beperkt.
+
+mm De elektronische leeromgeving (elo)
+
+Elke locatie heeft een elo-coördinator. We werken met Moodle.
+Een elo kan een belangrijke rol spelen bij het samenstellen en
+overzichtelijk presenteren van een leermiddelenarrangement.
+De elo biedt ook vele mogelijkneden om het onderwijs te
+structureren en flexibeler te maken. Met behulp van de elo
+kan een leerling op afstand en op elk tijdstip bijvoorbeeld
+leerstofoverzichten en planningen raadplegen, leerstof of
+toetsen gebruiken, een portfolio vullen, communiceren, werk
+inleveren.
+
+De docent kan via de elo de leerstof uitbreiden met beeld,
+geluid, extra informatie, extra bronnen en communiceren met
+leerlingen, volgen wat een leerling gedaan heeft, hoe lang er
+aan een toets gewerkt is etc.
+
+mm Personeel en ict
+
+Het gebruik van digitale leermiddelen en van de elo heeft op
+het Atlas College nog geen grote vlucht genomen. Volgens
+een schatting van de elo-coördinatoren is zo’n 30% van de
+docenten onervaren of niet handig met ict met als gevolg dat
+ze er in het geheel geen gebruik van maken. Aan de andere
+kant zijn er voorlopers, die goed op de hoogte zijn van de
+mogelijkheden en veel of alleen nog maar digitale leermiddelen
+gebruiken in hun lessen. Daartussenin is er een brede groep
+van ‘volgers’, die wel meer met ict in hun lespraktijk willen,
+maar daarvoor onvoldoende kennis en vaardigheden hebben
+of er te weinig aan toekomen. In het volgende hoofdstuk staat
+meer over (ict-)jcompetenties van personeel.
+
+mm Van computerlokaal naar laptopklas?
+
+Een computerlokaal of een laptopkar voldoet niet meer. In elk
+lokaal zouden computers aanwezig moeten zijn. De OSG en
+De Dijk zijn ertoe overgegaan om leerlingen met hun eigen
+laptop toegang te geven tot het schoolnetwerk. Een nieuwe
+mogelijkheid is om een complete desktopomgeving op een
+usb-stick te zetten zodat leerlingen altijd alles bij zich hebben
+en op elke computer verder kunnen werken. Het technisch-
+tekenprogramma Autocad en bepaalde kantoorprogrammatuur
+is daar te zwaar voor en zal dus op een andere manier
+beschikbaar moeten blijven.
+
+De ‘laptopklas’ waarin alle leerlingen altijd al hun werk doen op
+een laptop, is voor de werkgroep geen aantrekkelijk beeld. Het
+risico bestaat dat leerlingen echt de hele dag op het scherm
+zitten te kijken.
+
+Op de locaties varieert het aantal computers per leerling op dit
+moment van 1 op 3 tot 1 op 12.
+
+mm Technische voorzieningen
+
+De criterialijst uit hoofdstuk 2 zal de vraag oproepen naar
+nieuwe, technische ict-faciliteiten. Het kan dan gaan om
+hardware, software, beveiliging en ruimtes in de school, nodig
+om leermiddelen optimaal in te kunnen zetten. Voorkomen
+moet worden dat vernieuwingen geen kans krijgen vanwege
+technische belemmeringen. Voorkomen moet ook worden
+
+dat (dure) nieuwe voorzieningen niet benut worden omdat er
+bijvoorbeeld nog geen digitale leermiddelen zijn.
+
+Onze huidige netwerkstructuur dateert van enige tijd geleden.
+Incidenteel worden aanpassingen verzorgd, bijvoorbeeld om
+real time communicatie of videotoepassingen mogelijk te
+maken.
+
+Voor structurele aanpassingen is een concreet plan nodig dat
+de wensen (onderwijskundig) onderbouwt, bijvoorbeeld aan
+de hand van de leermiddelencriterialijst. Op basis daarvan zal
+systeembeheer scenario’s uitwerken, kosten in kaart brengen
+en een advies geven. Een flexibel of gefaseerd plan maakt
+het mogelijk ook de technische aanpassingen gefaseerd uit te
+voeren.
+
+4
+
+Leermiddelenbeleidsplan
+
+Leermiddelenbeleid en
+
+personeelsbeleid
+
+De criterialijst kan vragen oproepen over de inzet van
+personeel. Zijn secties en teams voldoende competent
+
+om het geheel aan leermiddelen te beoordelen, om
+leermiddelen te kiezen, te combineren, aan te passen, te
+ontwikkelen, zodanig dat ze passen bij de ambities van het
+Atlas College? En een andere vraag is: is er tijd, krijgen
+docenten tijd voor het (opnieuw) bekijken en aanpassen
+van leermiddelenarrangementen? Hieronder bespreken we
+hoe we met deze vragen om willen gaan.
+
+mm Van methode kiezen in de sectie naar bekijken
+van het geheel aan leermiddelen
+Momenteel is het gangbaar dat vaksecties een nieuwe
+methode kiezen. De lijst met criteria gaat daar een rol bij
+spelen. Daarnaast zal op team- of afdelingsniveau gekeken
+moeten worden naar het geheel aan leermiddelen waarmee
+een leerling in een periode werkt. Het locatiemanagement wijst
+de criteria aan waaraan nieuwe leermiddelen en het geheel aan
+leermiddelen dienen te voldoen, en stelt daarmee kaders voor
+de keuzes van secties en teams.
+
+EE Investeringen in formatie
+
+Het kiezen en op beperkte schaal aanvullen van methodes is
+nu een normaal onderdeel van het werk van de docent. Het
+samenstellen van leermiddelenarrangementen die voldoen aan
+nieuwe, ambitieuze criteria, zal zeker in het begin meer tijd
+kosten. In het locatieformatieplan zullen de keuzes die locaties
+op dit vlak maken, verhelderd worden.
+
+m Zelf leermiddelen maken, zelf leermiddelen
+arrangeren
+
+We zetten niet zwaar in op het op grote schaal zelf schrijven
+
+van lesmateriaal. Het is tijdrovend, het is niet eenvoudig en er
+
+is genoeg bestaand aanbod van leermiddelen.
+
+Wel zal steeds meer aandacht gaan naar het arrangeren: het
+
+kiezen en combineren van bestaand lesmateriaal en extra
+
+leermiddelen om een goed, actueel aanbod te kunnen doen
+
+aan alle leerlingen.
+
+ma Vergroten ‘leermiddelencompetenties’
+
+Onder leermiddelencompetenties verstaan we binnen het Atlas
+College de kennis, vaardigheden en houding die nodig zijn om
+een leermiddelenarrangement samen te stellen dat past bij
+onze ambities. Die competenties omvatten dus ook het kunnen
+(en willen) werken met de criterialijst. Het gaat niet alleen om
+ict-gerelateerde competenties, maar ook om didactische,
+vakmatige en organisatorische competenties. Kunnen werken
+met de elo zou een basiscompetentie voor alle docenten
+kunnen zijn.
+
+Een overzicht van de ontwikkeling van
+leermiddelencompetenties is in bijlage 2 opgenomen. Zo’n
+overzicht kan gebruikt worden als zelfscan voor docenten
+
+of teams en kan een rol spelen in pop-gesprekken. Bij het
+
+opstellen van vacatures en bij selectie van nieuw personeel
+kunnen leermiddelencompetenties meegenomen worden,
+afhankelijk van de hiaten in een team of sectie.
+
+mm Scholing
+
+Als het streven is om de leermiddelencompetenties te
+vergroten zal er scholing aangeboden moeten worden.
+
+Welke scholing nodig is, is afhankelijk van de al aanwezige
+competenties en behoeften onder docenten en teams, secties,
+afdelingen. Die zul je dus in kaart moeten brengen.
+
+Denkbaar is dat de scholingsbehoefte zal gaan in de richting
+van het leren beoordelen van software, het produceren van
+‘content’ voor Moodle, maar ook om het doorontwikkelen van
+didactische en vakmatige competenties voor zover het de
+inzet van leermiddelen betreft. Ook moeten mensen toegerust
+worden om gebruik te maken van de open-leermiddelenbank
+en de daar gevonden materialen aan te passen aan eigen
+ambities.
+
+Scholing en begeleiding kan op veel manieren vorm krijgen.
+Ten eerste kunnen meer ervaren docenten binnen de locatie
+anderen scholen en coachen, zo nodig na daarin zelf getraind
+te zijn. Als het gaat om nieuwe gadgets en de beleving van
+jongeren op gebied van leren met behulp van ict, zijn ook de
+leerlingen in te zetten. De aanwezige kennis op Atlasschaal
+kan benut worden. En tot slot is externe scholing een optie. In
+het hoger onderwijs is het arrangeren van leermaterialen veel
+gangbaarder dan in het voortgezet onderwijs, omdat er vaak
+geen complete methoden beschikbaar zijn. We zouden van
+de daar opgebouwde kennis gebruik kunnen maken. De Atlas
+Academie kan een overkoepelende rol spelen bij scholing op
+gebied van leermiddelen.
+
+9
+
+financien
+
+De ambitie om excellent onderwijs te verzorgen betekent
+dat het leermiddelenpakket waarmee leerlingen en
+docenten werken aan een hoge standaard moet voldoen.
+De criteria die onze standaard vormen hebben we
+weergeven in hoofdstuk 2. Het is de vraag of een methode
+per vak, wat nu gangbaar is, daaraan kan voldoen. Willen
+we op weg naar een optimale mix van methoden en andere
+leermiddelen, op papier en in ict-vorm, met een hoge
+kwaliteit, dan heeft dat financiële gevolgen. Hieronder
+beschrijven we de belangrijkste gevolgen.
+
+mm ‘Schoolboekenbudget’
+
+Het schoolboekenbudget per locatie ligt vast: het
+schoolboekengeld vermenigvuldigd met het aantal leerlingen.
+Locaties zullen opnieuw naar de verdeling van dit budget
+moeten kijken als het niet meer vanzelfsprekend is dat secties
+om de vijf jaar een nieuwe methode aanschaffen, maar andere
+arrangementen willen samenstellen en er bijvoorbeeld scholing
+en ict ten behoeve van het leermiddelen arrangeren nodig is.
+De term schoolboekenbudget dekt dan de lading niet meer en
+daar gaan we iets anders voor bedenken.
+
+mm Gratis leermiddelen kosten ook geld
+
+Het groeiende aanbod aan leermiddelen via internet maakt
+dat er steeds meer te kiezen is. Een deel van de lesmaterialen
+op internet is gratis. Dat kan een besparing opleveren maar
+de tijd die nodig is voor het aanpassen van het materiaal, het
+inpassen in het eigen arrangement en het onderhoud daarvan
+moeten meegerekend en niet onderschat worden.
+
+mm Kosten van zelf arrangeren en zelf maken
+
+Zelf lessenreeksen maken of lesmateriaal zoeken en
+combineren is tijdrovend. Het werk van docenten daaraan
+moet bekostigd worden. Ook zijn er kosten voor redactiewerk,
+vormgeving en productie van de zelfgemaakte leermiddelen of
+arrangementen, want het materiaal moet er wel professioneel
+uitzien — dat geldt ook voor digitaal materiaal.
+
+Niet alle docenten kunnen dat allemaal zelf en er zal
+geïnvesteerd moeten worden in scholing.
+
+In hoofdstuk 4 schreven we al dat niet bepleiten om op grote
+schaal zelf leermiddelen te gaan ontwikkelen. Het zal zich op
+kleine schaal voordoen om hiaten in het arrangement te vullen
+en bij uitzondering als een docent echt in staat is om binnen
+een gegeven budget goed en goed overdraagbaar materiaal te
+maken.
+
+Leermiddelenbeleidsplan
+
+Leermiddelenbeleid en
+
+mm Bekostigen van zelf arrangeren en zelf maken
+Als er ruimte ontstaat in het schoolboekenbudget doordat
+secties en teams minder methodes aanschaffen, of
+
+andere keuzes maken kunnen daaruit ontwikkelkosten,
+productiekosten en scholing betaald worden. Voor werkboeken
+die bijvoorbeeld maar voor de helft gebruikt worden kun je
+een alternatief zoeken. Licenties voor toegang tot aanvullend
+digitaal lesmateriaal zijn niet meer nodig als je zelf gratis
+materiaal vindt met vergelijkbare inhoud.
+
+Een begroting vooraf is nodig om verantwoord te kunnen
+investeren. Dit geldt in sterkere mate voor overgangssituaties
+waarbij methode en nieuw materiaal nog naast elkaar nodig
+zijn.
+
+De Atlasschaal kan hier voordeel opleveren omdat we
+ontwikkeld materiaal kunnen uitwisselen en gezamenlijke
+scholingstrajecten kunnen opzetten.
+
+Met behulp van in paragraaf 2.3 omschreven praktijkcasussen
+willen we kosten en opbrengsten op middellange termijn
+
+van veranderingen in het leermiddelenarrangement in kaart
+brengen.
+
+Leermiddelenbeleidsplan 10
+
+6 Voorgenomen beleid
+
+mm Algemeen mm Leermiddelen en personeel
+
+e De criterialijst wordt binnen het Atlas College een vast e De leermiddelencompetenties van secties, afdelingen, teams
+ijkpunt bij het samenstellen van de leermiddelenpakketten worden in kaart gebracht.
+waarmee leerlingen werken. (De huidige lijst met 22 e De scholingsbehoefte per locatie wordt geformuleerd.
+criteria wordt eerst op elke locatie in een praktijksituatie e Scholing rond leermiddelen wordt gecoördineerd door de
+uitgeprobeerd en met feedback van de gebruikers maken we Atlas Academie.
+
+een definitieve versie.)
+mm Leermiddelen en financiën
+
+mm Leermiddelen en ict e Locaties stellen begrotingen op waarin naast de
+
+e De elo wordt het centrum voor het arrangeren van aanschaf van methodes en extra leermiddelen ruimte
+leermiddelen. is voor investeringen in het samenstellen van nieuwe
+
+« Het gebruiken van de elo wordt verder bevorderd. Elke leermiddelenarrangementen.
+locatie formuleert hier concrete streefdoelen voor. e Voor financiering van structurele aanpassingen in de ict-
+
+° We zoeken binnen het Atlas College actief naar infrastructuur moet een onderwijskundig onderbouwd plan
+samenwerking om het gebruik van de elo en het werken met opgesteld worden dat de terugverdientijd van de investering
+
+digitale leermiddelen te bevorderen en te verbeteren. laat zien.

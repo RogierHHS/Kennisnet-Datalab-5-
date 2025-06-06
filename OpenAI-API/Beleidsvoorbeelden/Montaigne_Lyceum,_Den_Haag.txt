@@ -1,0 +1,386 @@
+Inleiding
+
+Het opstellen van een leermiddelenbeleidsplan biedt de mogelijkheid om eenheid aan te brengen in het
+schoolbeleid. Het opstellen van een Leermiddelenbeleidsplan vereist een integrale benadering. De onderwijsvisie
+van de school, de inzet van leermiddelen, professionalisering van de docenten, ICT beleid en de financiële kaders
+zijn immers niet los te banaderen. Keuzes die gemaakt worden in het kader van leermiddelenbeleid hebben
+invloed op al deze terreinen en vice versa.
+
+Het Montaigne Lyceum heeft sinds de oprichting van de school in 2001 veel ervaring opgedaan met het
+ontwikkelen van onderwijsmateriaal. Dit betekent dat keuzes die andere scholen wellicht nog moeten maken al
+zijn gemaakt en niet in het plan opgenomen zijn. Hierbij valt te denken aan een vraag als: ‘”aan welke
+voorwaarden moet het zelf ontwikkelde materiaal voldoen?”. Om toch inzicht te geven in de keuzes die in het
+verleden zijn gemaakt, is de Montaigne Ontwikkelgids als bijlage 1 aan dit plan toegevoegd.
+
+Daarnaast is er een bijlage (2) gewiĳd aan Montaigne-db.nl. In dit zelf ontwikkelde online
+leermiddelenopslagsysteem wordt het door de docenten van de school ontwikkelde materiaal beschikbaar
+gehouden. Het systeem bestaat 0.a. uit een database van door de docenten ontwikkeld materiaal en een programma
+voor het ontwikkelen van lesmaterialen. Om ervoor te zorgen dat de lesmaterialen gemakkelijk te vinden zijn in
+de database, vindt metadatering volgens de internationale standaarden plaats. Daarnaast heeft het Montaigne
+Lyceum een aantal schoolspecifieke metadata toegevoegd met betrekking tot de visie en werkwijze van de school.
+
+In dit plan wordt uitgegaan van cycli van 4 jaar aangezien voor de afschrijving van boeken en ICT vaak deze
+termijn wordt gebruikt. Dit plan is daarnaast gekoppeld aan het nieuwe schoolplan van het Montaigne Lyceum,
+waarin de ambities voor komende vijf jaar zijn verwoord.
+
+1. De onderwijskundige visie van de school
+
+Op het Montaigne Lyceum staat de ontwikkeling van de leerling, in de brede zin des woords, centraal.
+De doelstelling van het onderwijs is dat we van een Montaigne-leerling kunnen zeggen dat hij of zij
+
+° betrokken is
+
+« zelfsturend is, keuzes kan maken, discipline heeft
+
+« inzicht heeft in eigen kunnen
+
+« kennis van zaken heeft
+
+« kan samenwerken
+
+° verantwoordelijkheid neemt voor zichzelf, voor anderen en voor de wereld
+
+° klaar is voor de maatschappij
+
+Het diploma dat onze leerlingen uiteindelijk behalen, is een diploma-plus: naast het opdoen van kennis
+staat het verwerken van inzichten en de vaardigheden om iets met die inzichten te doen centraal.
+
+Bovenstaande doelstelling is alleen te realiseren met een op maat gemaakt, contextrijk
+onderwijsaanbod. Dit betekent concreet dat op het Montaigne Lyceum veel materiaal door de docenten
+zelf wordt ontwikkeld. Om het ingewikkelde proces van het ontwikkelen van materiaal goed te laten
+verlopen heeft iedere team (in totaal 7) een eigen OnderwijsArchitect. Dit zijn docenten die geschoold
+zijn in het ontwikkelen van materiaal. De OnderwijsArchitect begeleidt collega-docenten in het zelf
+ontwikkelen van lesmateriaal. Elke OnderwijsArchitect heeft wekelijks een dagdeel beschikbaar voor de
+ontwikkeling van lesmaterialen. De onderwijsarchitecten van de verschillende teams vormen samen het
+OnderwijsAtelier. Tijdens de wekelijkse teammiddagen geven de OnderwijsArchitect en de teamleider
+samen richting aan de onderwijsontwikkeling in hun team. De OnderwijsArchitecten ondersteunen
+verschillende onderwijskundige processen in de school en worden daarom uit de reguliere gelden en
+niet uit de leermiddelengelden betaald.
+
+Momenteel wordt onderzocht hoe de onderwijsarchitecten nog effectiever kunnen worden ingezet.
+Hierbij wordt gedacht aan een F/ying Doctors-constructie.
+
+2. De visie van de school op leermiddelenvoorziening
+
+De school wil een substantieel deel van de leermiddelen zelf ontwikkelen. Het onderwijs moet zo echt en
+contextrijk mogelijk zijn. Het gebouw van het Montaigne Lyceum en de wijze waarop de school is georganiseerd
+bieden hiertoe veel mogelijkheden. Slechts een zeer beperkt aantal scholen in Nederland heeft een soortgelijk
+vernieuwend concept als het Montaigne Lyceum.
+
+Het zelf ontwikkelen van een deel van het materiaal zorgt voor:
+- _ Onderwijs op maat
+- _ Implementatiemogelijkheden van de schooldidactiek
+- _ Deskundigheidsbevordering van de docenten
+- _ Een grote mate van eigenaarschap van het onderwijs van de collega’s
+
+Uitgevers lijken vooralsnog niet in staat (of bereid) passend materiaal bij dit concept te ontwikkelen en op de
+markt te brengen.
+
+In onderstaande tabel zijn de percentages voor de huidige situatie en streefsituatie (uiterlijk over 4 jaar) naast
+elkaar geplaatst. Deze percentages zijn gecheckt bij de teams en akkoord bevonden.
+
+Materiaal van derden Eigen materiaal
+
+Huidig streef huidig streef
+Onderbouw KT 60 50 40 50
+Onderbouw TH 50 50 50 50
+Onderbouw HV 70 60 30 40
+Onderbouw Gym 70 60 30 40
+Bovenbouw K 50 50 50 50
+Bovenbouw T 75 60 25 40
+Bovenbouw HV 75 65 25 35
+
+De percentages hebben betrekking op de tijd dat leerlingen zelf bezig zijn met de verwerking van de stof en zijn
+gemiddelden per afdeling (en kunnen daarbinnen dus per leerjaar en per vak verschillen).
+
+Materiaal van derden:
+dit is materiaal dat bij uitgevers of andere (commerciële) partijen wordt ingekocht. Materiaal van derden
+is (hoofdzakelijk) bronnenmateriaal, n het zelf ontwikkelde materiaal wordt hiernaar verwezen.
+
+Eigen materiaal:
+dit is materiaal dat zelf ontwikkeld is of gearrangeerd met bestaande content.
+
+Alleen eigen materiaal dat opgenomen is in de Montaigne DataBase wordt meegerekend in de streefcijfers.
+Opname in de DataBase betekent dat het materiaal voldoet aan de kwaliteitseisen van de school en hierop is
+gecontroleerd door het OnderwijsAtelier (zie paragraaf 4).
+
+Het zelf ontwikkelen en/of arrangeren van eigen materiaal heeft betrekking op contextrijke
+verwerkingsopdrachten (voor een vak, vakoverstijgend of voor een thema). Het is niet gewenst veel tijd en energie
+te steken in het zelf ontwikkelen van leerteksten.
+
+Als ondergrens per vak (mag gemiddeld over de verschillende leerjaren) wordt een streefcijfer van 25% eigen
+materiaal gehanteerd. De school / teamleiding voert hierover jaarlijks gesprekken met de sectie en daarbij kan
+eventueel beargumenteerd worden waarom de 25% niet wordt gehaald. De gesprekken worden ‘low profile’
+gevoerd en op basis van ervaringen wordt gestuurd op het behalen van het streven in 4 jaar. Het ontwikkelen van
+eigen materiaal is een vast onderdeel op de agenda van het Doorlopend Leerlijn Overleg (DLO)
+
+3. Organisatie rond het kiezen, verwerven en ontwikkelen van leermiddelen
+
+Eigen materiaal
+In de teamontwikkelplannen worden in januari van elk schooljaar plannen geformuleerd voor het ontwikkelen,
+
+verbeteren of aanvullen van eigen materiaal. Deze plannen worden als een project uitgewerkt en ingediend,
+waarbij vooral aandacht is voor de formulering van het beoogde resultaat, het tijdpad, de begroting en de criteria
+voor kwaliteit.
+
+Naast de teams kunnen ook vaksecties of individuele docenten een project indienen.
+
+De plannen worden gepresenteerd voor een ‘beoordelingscommissie’. Deze breed samengestelde groep binnen de
+school (met afvaardiging uit de schoolleiding, het OnderwijsAtelier, docenten en leerlingen) maakt jaarlijks een
+keuze uit de aangeboden projecten. De ouders worden via de Ouderraad geïnformeerd over de procedure en de
+uitkomsten ervan.
+
+De schoolleiding verstrekt inzichten in de toegekende projecten en de bijbehorende budgetten. De tijd die
+gemoeid is met de uitvoering van gehonoreerde projecten wordt vanaf 2010-2011 opgenomen in het takenplaatje
+
+van de betrokkenen.
+
+Procedure interne ontwikkelsubsidie (jaarlijks proces)
+
+Onderdeel Tijdpad
+1. Aankondigen subsidiemogelijkheid Uiterlijk 31 oktober
+2. Indienen projectplan (zie bijlage voor format) Uiterlijk 31 januari
+3. Beoordelen plannen door commissie Uiterlijk 15 februari
+4. Toekennen bedrag (tijd voor docent) en ondersteuning (OA) | Uiterlijk 28 februari
+S. Informeren aanvragers Uiterlijk 15 maart
+6. Opnemen in formatie nieuw schooljaar Uiterlijk 15 juni
+
+De school zoekt samenwerking met partners (bijv. binnen PLEION), om te komen tot een gezamenlijke productie
+van lesmateriaal. In de komende beleidsperiode van 4 jaar worden hier gerichte stappen in gezet, te beginnen in de
+tweede helft van het schooljaar 2009-2010 (eerste verkenning, oriëntatie op reeds beschikbaar materiaal 0.a. via
+de Montaigne Database www.montaigne-db.nl).
+
+Externe ondersteuning
+Het Montaigne Lyceum heeft bij het ontwikkelen van het onderwijsmateriaal externe ondersteuning ingekocht bij
+KPC Groep / Colours. Het betrof 0.a.:
+e scholing van onderwijsarchitecten m.b.t. het ontwikkelen van materiaal
+bewaken van het tijdpad
+systematisch opzetten van onderwijsontwikkeling in de school
+in samenspraak opstellen van criteria en formats waaraan het materiaal moet voldoen
+het inrichten van www.montaigne-db.nl
+
+Het verdient aanbeveling om bij een ingrijpende innovatie, zoals het zelf maken van onderwijsmateriaal, een
+externe partij in de hand te nemen die ervaring heeft op dit gebied. Inmiddels heeft het Montaigne Lyceum zelf
+getrainde onderwijsarchitecten, zijn de criteria opgesteld en is het ontwikkeltraject vastgesteld zodat vooralsnog
+geen externe partij (behalve bij het opstellen van dit plan) in het plan is opgenomen.
+
+Bij het implementeren van het beleidsplan n de komende 4 jaar zal de school, daar waar nodig, externen
+inschakelen voor advies. De kosten van deze inhuur zullen ten laste komen van het leermiddelenbudget.
+
+Materiaal van derden
+Het Montaigne Lyceum werkt voor de komende periode met Van Dijk Educatie als leverancier en logistiek
+verantwoordelijke voor de schoolboeken.
+
+Ten aanzien van de aanschaf van materiaal van derden wordt in de komende periode experimenteerruimte
+toegestaan voor de teams en secties. Het gaat daarbij om zaken als de aanschaf van lesmethoden per leerling of
+
+
+per klas (in zogenaamde klassensets), alsmede de aanschaf van pdf’s van lesmethoden. De secties zijn leidend,
+nemen het initiatief voor het inzetten van een experiment en overleggen hierover met de team — en schoolleiding.
+
+De middelen die nodig zijn voor experimenten zoals klassensets, mogelijkheden om zelf materiaal te arrangeren
+en de aanschaf van digitaal materiaal worden uit het leermiddelenbudget bekostigd en niet uit het sectiebudget.
+Voor ieder experiment dient de sectie / het team een begroting en een toelichting in bij de schoolleiding . Naar
+aanleiding hiervan wordt besloten welke voorstellen / experimenten worden gehonoreerd.
+
+4. Programma van eisen voor leermiddelen
+
+De school gebruikt de volgende omschrijving voor wat digitale leermiddelen zijn:
+‘digitale leermiddelen’:
+
+e watishet wel? _ webquests
+applets
+games
+url’s, als verwijzing naar informatie
+
+e watishetniet? pdf’s van methode
+invulbladen en formats in Word/Excel ter verwerking van geleerde,
+dragers zoals digitale schoolborden, mp3-spelers
+
+Tenminste 10% van de contacttijd werken leerlingen met digitale leermiddelen. Daarnaast wordt 10% van de
+contacttijd gewerkt met het Office-pakket, hoofdzakelijk voor het uitwerken van opdrachten en het verwerken van
+de leerstof.
+
+Deze percentages zijn streefcijfers voor een periode van 4 jaar en zijn gemiddelden per afdeling (en kunnen
+daarbinnen dus per leerjaar en per vak verschillen). Er wordt niet strikt gecontroleerd of deze cijfers gehaald
+worden, omdat dit moeilijk te meten is. Wel wordt vooral door de schoolleiding en het OnderwijsAtelier een
+klimaat geschapen binnen de school, waardoor het mogelijk wordt op een natuurlijke wijze naar de streefsituatie
+toe te groeien.
+
+Kwaliteitseisen
+Het OnderwijsAtelier geeft handreikingen aan de secties en teams als het gaat om de kwaliteitseisen van zelf
+ontwikkeld lesmateriaal. Deze eisen liggen op het gebied van:
+e materiaal moet passen bij de uitgangspunten van de school
+e  materiaal moet ontwikkeld zijn conform de afspraken uit de ontwikkelgids van het
+OnderwijsAtelier (bijlage 1)
+e materiaal moet gemetadateerd zijn en opgenomen zijn in de Montaigne DataBase, zie hiervoor
+de handleiding ‘Metadateren’ (bijlage 2)
+
+Het OnderwijsAtelier vervult een rol van ‘poortwachter — achteraf’ en als vraagbaak voor de secties en teams die
+vragen hebben over alle zaken die te maken hebben met het ontwikkelen en/of arrangeren van lesmateriaal en
+leermiddelen.
+
+ICT faciliteiten
+
+Als eerste resultaat van het denken over leermiddelen en leermiddelenbeleid is een weldoordachte keuze gemaakt
+voor een nieuwe Elektronische Leeromgeving. Met de keuze voor Magister wordt het mogelijk een aantal
+functionaliteiten te combineren, zodat leerlingen en docenten op een centrale plek alles kunnen vinden wat van
+belang is voor het leerproces (administratief en onderwijs-inhoudelijk, zoals bijvoorbeeld digitaal leermateriaal).
+Deze omstandigheid zal stimulerend werken voor een verdere groei van het gebruik van digitaal leermateriaal in
+de school naast producten die al gebruikt worden zoals DigIn en Wisweb. Vanaf de invoering van de Magister
+ELO wordt het gebruik hiervan voor alle docenten verplicht. (2010)
+
+In deze beleidsperiode zal nader onderzoek gedaan worden naar een verdere uitbreiding van functionaliteiten van
+de nieuwe ELO (0.a. portfolio voor leerlingen) en de koppeling van de ELO aan de Montaigne DataBase. Tevens
+wordt in het komende jaar onderzocht welke en hoeveel hardware nodig is om het leerproces van de leerlingen
+binnen het uitgezette onderwijsbeleid (schoolplan 2010 -2014) goed te ondersteunen. Op basis van de resultaten
+zullen vervolgens een financieel en een implementatieplan worden opgesteld, zodat aan de randvoorwaarden kan
+worden voldaan.
+
+5. Het financiële kader
+
+De school wil de door het rijk verstrekte middelen optimaal gebruiken. Het gemiddelde bedrag dat de school wil
+uitgeven voor het leermiddelenpakket van de leerling is vastgesteld op 320 euro, conform de vergoeding per
+leerling vanuit de rijksoverheid. Dit betekent dat de school alleen in bijzondere gevallen extra, eigen middelen
+inzet voor de aanschaf en/of ontwikkeling van lesmateriaal. Bv. Als er extra kosten voortkomen uit strategische
+beleidskeuzes.
+
+Binnen dit financiële kader wordt per afdeling (zie schema in paragraaf 2) een gemiddelde prijs voor het
+leermiddelenpakket vastgesteld, eventueel gespecificeerd naar leerjaren. De schoolleiding stelt in samenspraak
+met de teamleiders dit bedrag vast.
+
+Per afdeling wordt gestreefd in max. 4 jaar naar een verdeling van het budget voor aanschaf van materiaal van
+derden en ontwikkeling van eigen materiaal, als volgt (uitgaande van een normbedrag van 320 euro):
+
+- 230 euro voor aanschaf materiaal van derden (inc]. licenties)
+
+- 90 euro voor ontwikkeling eigen materiaal (incl. inzet personeel)
+Daarnaast wordt ongeveer 25 euro per leerling additioneel ingezet voor kopieer- en reproductiewerk, voor zover
+het betrekking heeft op onderwijsdoelen (dus niet administratief). Hierbij zal nog onderscheid gemaakt worden
+tussen verbruik en gebruik en tussen zwart-wit- en kleurkopieën. Om het aantal kopieën terug te dringen wordt het
+eigen materiaal tijdsbestendig gemaakt. Dit betekent dat (delen van) dit materiaal meerdere schooljaren gebruikt
+kan worden. De reprokosten worden uit het huisvestingbudget bekostigd en niet uit het leermiddelenbudget, zodat
+er meer middelen kunnen worden vrijgemaakt voor onderwijsontwikkeling.
+Door een eerste kritische ‘boekenlijstronde’ in 2008 -2009 is de gemiddelde prijs per boekenlijst teruggebracht
+van 330 naar 290 Euro. Hieronder zijn de stappen n beeld gebracht die de komende 4 jaar moeten leiden tot het
+verder terugbrengen van gemiddelde boekenlijstprijs
+
+Aan het leermiddelenbeleid gerelateerde Beleidskeuzes uit het nieuwe schoolplan (korte termijn)
+
+Onderdeel Tijdpad
+
+1. Opstellen boekenlijst 2010 - 2014 (zo weinig mogelijk werkboeken) | Uiterlijk maart 2010
+
+. Herontwerpen /aanpassen VMBO intersectoraal Uiterlijk maart 2011
+
+3. Ontwikkelen programma Technisch ontwerpen klas 1 HV en3 Uiterlijk juni 2010
+Gymnasium
+
+4. Ontwikkelen programma Kunst en Techniek 3 H en 3V Uiterlijk juni 2011
+
+5. Uitvoeren nieuw ontwikkeld programma NLT 4,5,6 HV Vanaf september 2010
+
+6 Curriculum vervangende contextrijke opdrachten ontwerpen voor 2010 -2014
+thema’s in onderbouw (en thematische opdrachten)
+
+7. Curriculum vervangende (vakoverstijgende) contextrijke 2010 -2014
+opdrachten ontwerpen voor vakken in de onderbouw
+
+8. Curriculum vervangende contextrijke opdrachten ontwerpen voor 2010 -2014
+thema’s in bovenbouw (en thematische opdrachten)
+
+9. Curriculum vervangende (vakoverstijgende) contextrijke 2010 -2014
+opdrachten ontwerpen voor vakken in de bovenbouw
+
+10. ‘“Tijdloos’ maken en produceren bestaand materiaal Uiterlijk juni 2010
+
+11. Invoeren bestaand materiaal in www.montaigne-db.nl Continue
+
+12. Betrekken van leerlingen bij het beoordelen van zelfontworpen Continu
+materiaal d.m.v. enquêtes
+
+13. Betrekken van leerlingen bij het ontwerpen van materiaal via de Jaarlijks bij minimaal een
+Domeinraden onderwijsproject per team
+
+14. Breed inzetten van wintoets 2011 - 2012
+
+Wanneer een afdeling in staat is minder geld uit te geven aan materiaal van derden, ontstaat er meer ruimte voor
+investeringen in eigen materiaal.
+
+
+Ten aanzien van de exacte verdeling van de kosten per afdeling en per team wordt in de komende jaren ervaring
+opgedaan. Bovengenoemde uitgangspunten zijn daarbij bepalend, alsmede de tabel met streefcijfers uit paragraaf
+2.
+
+Voor de kosten voor de aanschaf van abonnementen, deelnames etc. reserveert de school jaarlijks een budget van
+5.000 euro. Teams en secties kunnen een aanvraag doen voor een aanschaf, onderbouwd met een
+onderwijskundige argumentatie en een kostenplaatje. De schoolleiding beslist over toekenning van de aanvraag, in
+samenspraak met het OnderwijsAtelier.
+
+Eventuele extra vakken worden meegenomen binnen het budget (ouders gaan hiervoor dus niet extra betalen).
+
+6. Professionalisering van het team
+
+Het OnderwijsAtelier speelt een voorname en initiërende rol bij de professionalisering van het team. De
+architecten in dit Atelier zijn geschoold en hebben een ruime ervaring en een uitgebreid instrumentarium op het
+gebied van zelf ontwikkelen en arrangeren van lesmateriaal. Het Atelier coacht en begeleidt de teams en de
+docenten en is verantwoordelijk voor het verspreiden en borgen van kennis. Daar waar nodig worden de
+OnderwijsArchitecten voor deze taken extra geschoold.
+
+Speerpunten voor de komende beleidsperiode zijn scholing op werkvormen, metadatering en het arrangeren van
+materiaal. In het scholingsplan zal hier ruim aandacht voor zijn. Naast inhoudelijke scholing wordt ook scholing
+aangeboden met betrekking tot het verwerven van ICT-vaardigheden. Dit heeft als doel om het gebruik van de
+ELO, het Smartboard en digitaal materiaal te optimaliseren Het scholingsplan wordt opgesteld in overleg met de
+teamleiders en andere betrokkenen en voorgelegd aan de MR ter vaststelling in de periode mei/juni van elk
+schooljaar. De kosten voor scholing drukken op het scholingsbudget en niet op het leermiddelenbudget.
+
+7. Volgen en vooruitzien
+
+Over hoe de school rapporteert over het leermiddelenbeleid en de leermiddelenvoorziening aan bestuur,
+medezeggenschapsraad, ouders en omgeving.
+
+De school rapporteert in haar begroting aan het Centrale Directie van de Esloo Onderwijsgroep, waarvan het
+Montaigne Lyceum deel uitmaakt. Daarnaast wordt het Leermiddelenbeleidsplan verspreid onder de andere
+scholen van de onderwijsgroep. In december 2009 zijn de uitgangspunten van dit plan reeds aan de Algemene
+Directie (Locatie directeuren, Algemeen Directeur, Stafbureau) gepresenteerd.
+
+Het Leermiddelenbeleidsplan zal ter goedkeuring aan de Deel MR, waarin ook ouders zitting hebben, worden
+voorgelegd.
+
+De leerlingen worden betrokken bij de evaluatie van leermateriaal via enquêtes. Het OnderwijsAtelier speelt hier
+een rol in, als expertisecentrum binnen de school.
+
+In dit plan zijn met name de ambities met betrekking tot leermiddelenbeleid voor de komende 4 jaar uitgewerkt.
+Daarnaast zal ook nog een aantal verkennende activiteiten plaatsvinden ter ondersteuning van het beleid in de
+
+periode daarna. Deze zijn in onderstaand schema opgenomen.
+
+Verkennende activiteiten m.b.t. het leermiddelenbeleid
+
+Onderdeel Tijdpad
+
+1. Opstellen functies mb.t. de inrichting van de ELO Uiterlijk maart 2012
+
+2. Opstellen ICT-beleidsplan in het kader van leermiddelenbeleid Uiterlijk maart 2013
+
+3. Opnemen scholingswensen m.b.t. onderwijsontwikkeling in het Uiterlijk juni 2010
+scholingsplan
+
+4. Onderzoek naar de mogelijkheden om in de onderbouw VMBO (en | Uiterlijk juni 2011
+verder?) te werken met leergebieden
+
+S. Samenwerking met partners (PLEION) aangaan met betrekking tot Vanaf september 2010
+onderwijsontwikkeling
+
+6. Onderzoek naar mogelijkheden en wenselijkheid om digitale 2010 - 2011
+methodes in te voeren
+
+7. Onderzoek naar mogelijkheden om gebruik te maken / aan te sluiten | 2010 - 2011
+bij initiatieven als Wikiwijs en VO-content
+
+8. Onderzoek naar arrangeermogelijkheden van uitgevers 2010 — 2011
+
+9. Onderzoek naar breed invoeren van Wisweb 2010 -2011
+
+10. Verwerken conclusies uit richtinggevende onderzoeken voor Uiterlijk januari 2014
+leermiddelenbeleidsplan 2014 en verder

@@ -1,0 +1,634 @@
+Denken én doen
+
+Leermiddelenbeleid op Het College Vos
+
+Inleiding
+
+Het College Vos heeft de afgelopen jaren veel
+geïnvesteerd in een goede ict-infrastructuur en ziet de
+ontwikkelingen rondom de ‘gratis’ schoolboeken als een
+kans om een belangrijke stap te maken. In het schooljaar
+2007-2008 heeft zij - samen met andere scholen — in de
+notitie Triple-A een start gemaakt met het formuleren van
+leermiddelenbeleid!. In Denken én Doen wordt dieper
+ingegaan op de algemene lijn die in Triple-A is
+beschreven en wordt geprobeerd de hoge ambities en de
+dagelijkse praktijk aan elkaar te verbinden. Er is daarom
+nadrukkelijk voor gekozen om gesprekken te voeren met
+vertegenwoordigers van enkele vakgroepen (Engels havo-
+vwo-tt0,
+
+M-en-M vmbo, wiskunde vmbo-b/k) en met twee groepen
+leerlingen (1 h/v en 5 v). Aan een (digitaal) ouderpanel
+zijn vragen voorgelegd over kenmerken en gebruik van
+leermiddelen.
+
+In deze notitie wordt allereerst een streefbeeld geschetst
+op basis van het gesprek met directeuren onderwijs en
+afdelingsleiders. Het streefbeeld ‘we zijn een school die
+rekening houdt met de verschillen tussen leerlingen en willen daar de leermiddelen op afstemmen’ is niet
+wereldschokkend. Toch zal dat de realisatie van het streefbeeld lastig zijn. Een van de gesprekspartners
+sprak ‘als het met de huidige boeken nu niet lukt, zou het dan straks wel lukken?’ De verwachtingen en
+vragen van de docenten laten de ruimte zien en ook de knelpunten. In deze notitie worden de mogelijkheden
+duidelijk gemaakt om op kortere termijn (3 jaar) met gebruik van ICT de kwaliteit van het leren te
+bevorderen.
+
+In het tweede gedeelte van de notitie wordt een plan voor de komende jaren beschreven.
+
+De gehaaste lezer kan desgewenst na paragraaf 1 verder gaan bij 2.5. Hij mist dan de overwegingen en start
+bij de conclusies uit de consultatieronde. Hij kan dan ook de kaderteksten overslaan die een illustratie of een
+uitwerking zijn van een begrip of situatie uit de kerntekst.
+
+De ongeduldige lezer heeft misschien al voldoende aan de samenvatting op de volgende bladzijde.
+
+t Onder leermiddelen worden vooral informatieleveranciers (lesmethoden, naslagwerken, digitale bladen) verstaan en niet
+zozeer de informatiedragers (laptops, e-books, … ), de hulpmiddelen/verbruiksmaterialen (pen, geo, proefwerkpapier,
+microscoop, … ) en de infrastructuur (tafels, stoelen, netwerken en digitale schoolborden). De keuze voor een bepaald
+type materiaal impliceert de keuze voor een drager (papier, laptop, etc.)
+
+Leermiddelenbeleid zijn alle activiteiten die leiden tot de keuze en inzet van leermiddelen.
+
+Samenvatting
+
+Het College Vos houdt rekening met de verschillen tussen leerlingen. De leermiddelen die een vakgroep
+kiest zal aan de verschillen tussen leerlingen tegemoet moeten komen. Dat gebeurt traditioneel al door het
+vergroten van de variatie in opdrachten. Het gebruik van digitale leermiddelen maakt het beter mogelijk om
+verschillen tussen leerlingen te honoreren.
+
+In de huidige onderwijspraktijk is het gebruik van ict bij het onderwijzen en leren nog beperkt, zelfs na
+meer dan 10 jaar aandacht voor dit onderwerp. Ondertussen wordt een aantal basisvoorwaarden verbeterd:
+er hangen veel digitale schoolborden in de gebouwen en reeds 1000 van de 1750 hebben een persoonlijke
+laptop. De komende jaren zal dat aantal snel groeien.
+
+Het keuzeproces van de leermiddelen voor deze nieuwe media vereist de komende jaren veel aandacht van
+docenten én van de schoolleiding. Voor de docenten rust goed onderwijs op een gestructureerd programma
+(leerboek) dat door een professionele uitgever gemaakt en onderhouden wordt. Daarnaast wil men kunnen
+variëren in en met opdrachten. Bij deze opdrachten denkt men niet in de eerste plaats aan digitale
+materialen. Men kent ze niet of is gefrustreerd door slechte ervaringen of slechte ervaringen van anderen.
+
+De gewenste verandering — leerlingen meer variatie en de mogelijkheid bieden om langs verschillende
+
+wegen hetzelfde doel te bereiken — zal niet vanzelf gerealiseerd worden. Door planmatig werkboeken te
+
+vervangen door digitaal materiaal komt geld vrij om nieuwe materialen te kiezen, te maken of te kopen. In
+
+een rekenmodel wordt aangetoond dat er de komende drie jaar € 77.000 jaarlijks herbestemd kan worden.
+
+Er is een aantal voorwaarden voor een succesvolle uitvoering van het plan.
+
+« Een voortdurend gesprek van de schoolleiding met docenten, teams en vakgroepen (vakclusters of -
+domeinen) over de keuze en het gebruik van leermiddelen.
+
+« _ Een uitbreiding van techniek en verbetering van de betrouwbaarheid van de techniek.
+
+«  Ondersteuning van de docenten bij keuzes en vergroting van hun deskundigheid.
+
+«  Een planmatige aanpak binnen de PDCA-cyclus.
+
+1. Wat voor school wil Het College Vos zijn en wat voor
+onderwijs en leermiddelen horen daarbij?
+
+‘Het College Vos is een school waar de leerling kansen krijgt zich te ontwikkelen. In toenemende mate
+zullen verschillen tussen leerlingen (1n belangstelling, in aanpak, in leerstijl, in begeleidingsbehoefte, in
+startniveau, etc.) erkend worden en de basis zijn voor het leren. Leermiddelen moeten de leerlingen
+aanzetten tot activiteiten en ze moeten tegemoet komen aan de specifieke wensen van de lerende.’ Dit was
+de conclusie van een gesprek over leermiddelen van enkele onderwijsdirecteuren en teamleiders in oktober
+2009. Deze uitspraak legt de nadruk dus niet op de leermiddelen maar op de onderwijskundige,
+pedagogische en didactische benadering van leerlingen en het leren.
+
+Ook in het strategisch beleidsplan (2005-2010) en het schoolplan (2009-2014) wordt het karakter van de
+school in enkele volzinnen beschreven. In het schoolplan worden bijvoorbeeld de volgende kernpunten
+besproken.
+
+» _ We bieden kwalitatief goed onderwijs.
+
+2 _ We bieden inspirerend en uitdagend onderwijs.
+
+» _ We bieden een aantrekkelijke, stimulerende en dynamische leeromgeving.
+
+» _ We staan voor optimale ontplooiing van de leerling.
+
+Het lijken algemene punten maar ze worden door de context
+van de school en door eerdere keuzes ingekleurd. Het eerste
+punt wordt bijvoorbeeld sterk bepaald door de grote aandacht
+voor een doorgaande leerlijn, voor inhoudelijk en
+organisatorisch goede toetsing en voor aandacht voor de
+leerling die uit lijkt te vallen. Het tweede en derde
+aandachtspunt is in de school 0.a. opgepakt door
+projectonderwijs vorm te geven (in het vmbo veel meer dan in
+havo-vwo) en door het gebruik van ict te bevorderen. Het
+laatste punt van dit lijstje wordt op dit moment 0.a.
+vormgegeven door leerlingen de mogelijkheid te bieden voor
+een themaklas te kiezen (sportklas, kunstklas, tweetalig
+onderwijs).
+
+Alhoewel in deze notitie veel over de inzet van de computer
+en digitale leermiddelen geschreven wordt en het wellicht de
+discussie soms zal domineren, staat het leren van de leerling en de rol van de docent daarbij voorop. De
+computer is en blijft een hulpmiddel.
+
+
+2. De stand van zaken
+
+Met groepen docenten en leerlingen is vervolgens gesproken over de huidige en gewenste praktijk. Uit deze
+gesprekken komen twee groepen wensen naar voren. Goede leermiddelen bieden houvast maar ook ruimte
+en variatie.
+
+21 Houvast
+
+Kern van het leermiddelenpakket is een door een team van professionals (bijv. een uitgever) verzorgde en
+onderhouden methode. Hiermee wordt min of meer een garantie gegeven dat alle kerndoelen en eindtermen
+voldoende aan de orde komen.
+
+Minimaal ziet men een basisboek, waarin de theorie (leerstof, begrippen) van één of van meerdere leerjaren
+aan de orde komt. In het algemeen is er een duidelijke voorkeur voor een gedrukt (geprint) boek dat een
+instrument van de leerling is.
+
+Ook de leerlingen hebben beelden bij een goed leerboek: overzichtelijk en compact met functionele
+illustraties en tekeningen. De teksten gaan over echte dingen die je bezighouden, er zijn inhoudelijk goede
+vragen. Met het boek kan je je goed voorbereiden op de toets. Ouders delen deze ideeën, een boek dat
+bondig overzichtelijk, goed gestructureerd is, (bijv. met kaderteksten) heeft de voorkeur.
+
+De vraag om een basisleerboek past prima bij het uitgangspunt ‘Kwalitatief goed onderwijs bieden’. Het
+leerboek geeft het zekere gevoel dat de kerndoelen/eindtermen aan de orde komen en dat er een
+doorlopende leerlijn binnen de opleiding is.
+
+Over de verwerkingsopdrachten (werkboeken) is men
+minder eenstemmig. De taalmethodes kennen een
+complexe opbouw waarbij uitleg en
+toepassingsopdrachten bijna een geheel zijn. De docenten
+Engels kunnen zich niet goed voorstellen het werkboek te
+missen. De docenten van de zaakvakken konden zich juist
+goed voorstellen dat ze zonder werkboek verder zouden
+gaan. Zij meenden dat ‘het werkboek creativiteit weg
+haalt’ en ‘er is zoveel materiaal te vinden op het net dat
+past bij de onderwerpen’. Ook de leerlingen hadden geen
+voorkeur voor losse werkboeken (het is veel sjouwen, het
+zijn saaie invuloefening, het antwoord past nooit op de
+lijntjes) en gaven aan het werkboek vooral te gebruiken bij
+de verwerking van bepaalde leerstof. De meeste leerlingen
+gebruiken het niet bij het voorbereiden van een toets.
+Ouders zijn verdeeld over de werkboeken. Iets meer dan
+de helft van de respondenten ziet vragen en opdrachten
+liever in het tekstboek opgenomen en denkt dat hun
+kinderen niet graag met een werkboek werken. Op de
+vraag is het werkboek nuttig of zinloos antwoordt de helft
+neutraal, de andere helft kiest voor (min of meer) nuttig.
+Er zijn geen ouders die de werkboeken zinloos achten.
+
+2.2 Ruimte en variatie
+
+Het gebruik van een methode (boek) zou de ruimte voor
+de docent niet moeten verkleinen maar juist groter moeten
+maken. In de gesprekken met de docenten blijkt de
+behoefte om eigen materiaal te ontwikkelen en te gebruiken, als middel om vernieuwend met het eigen vak
+
+
+bezig te zijn, om sleur te voorkomen en om weer regie te krijgen over de inhoud en het leren. Dit geldt in
+sterkere mate voor de vakdocenten (van havo-vwo) en in mindere mate voor docenten in het vmbo die
+meerdere vakken geven en vaak een pabo-opleiding hebben. Deze laatste zien de variatie eerder als een
+mogelijkheid om aan te sluiten bij de leerlingen en de relatie met de klas te versterken.
+
+Het materiaal dat zij willen gebruiken is heel divers. Het kan digitaal en analoog zijn, een schrijfopdracht op
+papier zijn of vragen om fysieke activiteiten van leerlingen (kijken, tellen, meten, schetsen, bouwen),
+vragen om een klassikaal gesprek of juist om individuele actie, etc. Op deze manier willen zij ook
+voorkomen dat er een ‘nieuwe saaiheid’ ontstaat en het maakt het mogelijk om in te spelen op vragen die in
+de klas gesteld worden.
+
+De gedachten om ruimte te houden voor eigen materiaal en voor gevarieerde opdrachten past op zichzelf
+goed bij kenmerken van AAA-leermiddelen. De docenten hebben het echter niet zo systematisch benaderd
+en denken ook (nog) niet in de eerste plaats aan de mogelijkheden van ict-materialen.
+
+Het past ook bij de eerder genoemde schoolkenmerken ‘Inspirerend en uitdagend onderwijs verzorgen’ in
+‘een aantrekkelijke, stimulerende en
+
+dynamische leeromgeving’. Meerwaarde van ict-gebruik
+
+Tussen de regels door, soms ook wel expliciet, wordt de meerwaarde
+. van ict ter discussie gesteld, niet iedereen is daarvan op voorhand
+2.3 Ict-gebruik
+
+overtuigd. In de gesprekken komen daarop ook antwoorden, soms
+
+/ / aarzelend, deels gesouffleerd door de gespreksleiders.
+In de gesprekken ging het — uiteraard —
+
+veel over de inzet van ict. Veel
+
+= _ Je kunt alternatieve opdrachten (routes) bieden aan leerlingen die
+moeite hebben met de standaard aanpak.
+
+gespreksgenoten hadden geen duidelijke Je kunt andere mogelijkheden (intelligenties) van leerlingen
+beeld van de mogelijkheden die ict voor aanspreken (een opdracht beluisteren i.p.v. lezen, een animatie
+hun vak, hun les biedt. Als de methode bekijken i.p.v. een tekening bekijken, videomateriaal bekijken
+een directe ondersteuning biedt is de kans i.p.v. een tekst lezen, etc.)
+
+het grootst dat ict-materiaal gebruikt Je kan de uitleg herhalen voor leerlingen die afwezig waren of
+wordt (alhoewel er kanttekeningen bij de een vraag hebben, het liefst op een andere manier. De leerlingen
+complexe Ìl'llngl'0€€dlll'€$ gemaakt zouden er ook de op het digitale schoolbord gemaakte
+
+worden en de beschikbaarheid van aantekeningen kunnen terugvinden.
+
+voorzieningen niet optimaal is). Voor los Je kunt de leerlingen opdrachten laten maken die de leerlingen
+
+materiaal is men huiverig (Is de kwaliteit directe feedback geven en op langere termijn een foutenanalyse.
+
+wel goed? Past het bij de theorie van dit
+hoofdstuk? Kunnen de leerlingen het?
+Wat kan ik dan weglaten?). De meesten
+kennen de beschikbare materialen niet of
+zien op tegen de tijdrovende selectie en
+eventuele bewerking en twijfelen of het
+gevonden object vanuit de beveiligde
+schoolomgeving te benaderen is.
+
+De leerlingen van de bovenbouw vwo
+geven aan zelden gebruik te maken van De docenten erkennen deze meerwaarde in het algemeen maar zien de
+ict-voorzieningen voor schoolwerk, noch toepassing voor de eigen les nog niet.
+
+op school, noch thuis. Zij maken
+hoogstens een opdracht op de
+tekstverwerker. De leerlingen uit de eerste
+klas hebben sinds kort een laptop in
+gebruik. Zij maken zo nu en dan gebruik
+van de laptop.
+
+Ouders waarderen het gebruik van de computer voor het leren. Zij zien vooral goede mogelijkheden voor
+informatie verzamelen, werkstukken en samenvattingen.
+
+Je kunt opdrachten of routes laten geblokkeerd als niet aan de
+voorwaarden is voldaan (als je bijv. de instapvraag niet
+voldoende gemaakt hebt, kan je niet naar de volgende
+opdrachten),
+
+Je kunt een dynamische (persoonlijke) route aanbieden (op basis
+van instaptoets geeft de computer je een vervolgopdracht die past
+
+bij het geconstateerde niveau of voorkeurstijl).
+
+Je laat leerlingen gebruikmaken van een rijke bron.
+Je biedt afwisseling.
+
+Alle betrokkenen pleiten voor bedrijfszekere ict-voorzieningen als basisvoorwaarde.
+
+= _ Voldoende goedwerkende computers,
+
+»  voldoende werkende digitale schoolborden,
+= _ snelle inlogprocedures,
+
+»  voldoende bandbreedte,
+
+2  goed toegang tot elo,
+
+=  geen technische rompslomp.
+
+24 Kwaliteiten van medewerkers, ondersteuning door de organisatie
+
+In de gesprekken met de vakgroepen is ook gesproken over de kwaliteiten waarover docenten of
+vakgroepen en teams zouden moeten beschikken als het spoor van ict-leermiddelen verder ontwikkeld zou
+moeten worden.
+
+Allereerst is opvallend dat er bij geen van de gesprekken een duidelijk beeld is hoe de keuze van de thans
+gebruikte leermiddelen tot stand gekomen is, er lijkt ook geen afspraken over evaluatie of het planmatig
+vervangen van bestaande methoden.
+
+Verder lijkt er ‘enig’ draagvlak voor ‘een zekere’ specialisatie. Uit de voorzichtige omschrijving blijkt de
+aarzeling want sommigen zijn bang dat hen het creatieve deel van het werk afgenomen wordt en dat
+daarmee de verantwoordelijkheid van de docent voor de eigen les uitgehold wordt. Toch wil niet iedereen
+digitaal materiaal arrangeren of een leerroute in een elo
+zetten. Het gaat hier om voorlopig tamelijk specialistisch
+werk waarvoor iemand in de vakgroep of in het team wel
+een opdracht zou kunnen krijgen. Deze collega zou dan
+faciliterend moeten zijn en vraaggestuurd moeten werken
+(‘wil je voor klas 3 de opdrachten bij hoofdstuk 6
+klaarzetten in de elo’ of ‘ik zoek bij het onderwerp
+‘vulkanisme’ een animatie, kan jij die zoeken en
+klaarzetten’ of ‘weet Jij of er een alternatief is voor de saaie
+hoofdstuk over de middeleeuwen?’) maar de autonomie van
+de docent niet mogen beperken.
+
+2.5 Conclusies uit de gesprekken
+
+De keuze van (nieuwe) leermiddelen speelt zo weinig dat er geen duidelijke afspraken zijn over keuze- en
+evaluatiecriteria, keuzeproces, besluitvorming etc. Er wordt regelmatig over de kwaliteit van leermiddelen
+nagedacht.
+
+De gebruikte leermiddelen hebben de volgende kenmerken.
+
+«  Zij bieden structuur aan het werk van docenten en zorgen voor de opbouw van een programma,
+
+= _ worden door een team van professionals gemaakt en onderhouden,
+
+» nemen docenten werk uit handen,
+
+= _ zijn vooral gericht op klassikaal onderwijs,
+
+= _ hebben een geringe ict-component (of een weinig gebruikte ict-component).
+
+De eerste drie aspecten bepalen ook de vorm van de gewenste leermiddelen: boeken, soms met een apart
+werkboek.
+
+Naast materiaal dat door de uitgever geleverd wordt, willen docenten ook ruimte voor eigen inbreng, de
+ontwikkeling van eigen materiaal en - hiermee - de mogelijk tot sturing; een aantal haalt hieruit veel
+werkplezier. In het algemeen denkt men niet aan vrij beschikbare, digitale materialen.
+
+De docenten hebben nog nauwelijks een beeld van de mogelijkheden die ict in het onderwijs kan bieden. Er
+is ook geen streefbeeld, ict roept eerder het beeld op van drie T'’s (tijdrovend pionieren, technische
+problemen en teleurstelling) dan van de drie A’s.
+
+Dit zorgt ervoor dat de docenten niet snel warm lopen voor ict-leermiddelen, zelfs als deze naast een door
+professionals verzorgde en onderhouden methode gebruikt worden. Zij wijzen het gebruik niet af en
+wachten graag ‘tot het klaar is’.
+
+De meeste ruimte voor verandering lijkt op dit moment in de vernieuwing van werkboeken / werkmateriaal.
+
+3. De ambitie
+
+Het College Vos is een school waar men rekening houdt met de verschillen tussen leerlingen daarop moeten
+de leermiddelen afgestemd worden. Digitale materialen bieden — naast een variatie aan leermiddelen -
+betere mogelijkheden om met verschillen tussen leerlingen om te gaan. In de komende jaren wordt daarom
+het gebruik van digitale leermiddelen als onderdeel van de leermiddelenmix bevorderd.
+
+Een door een professioneel team (bijv. een uitgever) verzorgd en onderhouden basisboek (folio, gedrukt of
+‘printed-on-demand’) zal de kern zijn van het leermiddelenpakket dat elke vakgroep samenstelt. Het
+basisboek is ook als pdf-bestand beschikbaar voor de leerling.
+
+Op veel van de vmbo-afdelingen werken de
+leerlingen al met laptops. Hier kunnen binnen drie
+jaar alle leerlingen over een persoonlijke drager
+beschikken. Voor havo-vwo is meer tijd nodig,
+voor deze afdelingen wordt een periode van vijf
+jaar gekozen.
+
+Over een periode van drie tot vijf jaar worden de
+papieren werkboeken vervangen door hetzij een
+invulbaar digitaal exemplaar (zie kader hiernaast),
+hetzij een ingekocht of een door de school
+gearrangeerd? pakket verwerkingsopdrachten.?
+Aan de digitale leermiddelen zullen in toenemende
+mate eisen gesteld worden betreffende
+interactiviteit, maatwerk etc.
+
+De digitale leermiddelen zijn via de elo snel voor
+leerlingen beschikbaar.
+
+De schoolleiding draagt deze visie op het
+onderwijs en deze ambitie uit.
+
+? Onder arrangeren wordt verstaan het gebruiksklaar maken (didactiseren) van bestaande bronnen.
+° Deze ambitie sluit goed aan bij ontwikkelingen in de markt. Als bijlage 5 is als voorbeeld een overzicht opgenomen van
+de ontwikkelingen die een uitgeverij op korte termijn voor zich ziet.
+
+4. De aanpak
+
+41 Een plan van aanpak per vakgroep en per team
+
+Aan elke vakgroep zal gevraagd worden de ambities te vertalen naar concrete acties. Hen zal een aantal
+
+concrete vragen voorgelegd worden, zoals
+
+= _ hoe kan in toenemende mate variatie in
+werkvormen gerealiseerd worden,
+
+= _ welke alternatieven er op dit moment al
+voor het werkmateriaal (werkboek) zijn,
+
+= welk onderdeel zich vermoedelijk het beste
+leent voor digitalisering,
+
+= met welke stap, wanneer begonnen kan
+worden,
+
+= _ hoe de werkverdeling in de vakgroep
+
+geregeld wordt,
+etc.
+
+Aan de teams zal de vraag worden voorgelegd
+waar prioriteiten zullen moeten worden gelegd.
+
+De schoolleiding zal met vakgroepen in gesprek
+gaan over de uitwerking van de plannen en hen
+daarbij ondersteunen.
+
+4.2 Een plan van aanpak voor de
+infrastructuur
+
+Binnen drie tot vijf jaar hebben alle leerlingen de beschikking hebben over een persoonlijke ‘drager’
+(laptop) en de bandbreedte van de verbinding zal voldoende groot moeten zijn om de leerlingen allemaal
+aan het werk te laten zijn.
+
+In de instructieruimtes zullen in de komende drie jaar voldoende digiborden aangebracht worden.
+
+Het systeem zal een uptime moeten hebben van 97,5% (dat betekent dat 1 op de 40 lesuren het systeem niet
+(goed) functioneert).
+
+Er zal een algemene hulp- en storingsdienst zijn (vgl. laptopdokter).
+
+Het techniekplan zal uitgewerkt worden in de maanden januari — februari 2010. Het plan bevat
+doelstellingen en een financiële onderbouwing.
+
+4.3 Een plan voor de ondersteuning van het personeel
+De vernieuwing van de leermiddelen valt of staat bij betrokken en deskundige medewerkers.
+
+Het proces wordt gefaciliteerd door diverse activiteiten.
+2 De deskundigheid van docenten/vakgroepen en teams zal worden vergroot.
+o Workshops (liefst door eigen medewerkers, knoppencursussen, digibord-lessen,
+arrangeerlessen).
+o Verkenningen van open materialen per vakgroep.
+
+o Bespreken van good practices.
+
+o Tijd om ervaringen uit te wisselen en plannen te maken.
+
+2 _ Aanstellen van ict-coaches per team of voor een aantal vakgroepen. (zie bijlage 2)
+« Het hoog op de agenda houden van het onderwerp door de volgende acties.
+
+o De ict-ontwikkelingen (gebruik, ervaringen, plannen etc.) tot onderwerp van gesprek maken in
+voortgangs- en functioneringsgesprekken, vakgroepgesprekken, themabijeenkomsten,
+leerlingplatform etc.
+
+Bijeenkomsten/onderwerpen in te plannen in het jaarprogramma.
+Het instellen van een platform ict per locatie waarin afdelingsleiding, coördinatoren, ict-coaches
+etc. de ontwikkelingen bespreken en zo nodig bijsturen.
+
+«  Instrumenten beschikbaar stellen die processen ondersteunen.
+
+o Stappenplan ‘leermiddelen kiezen’
+
+o Checklist ‘evaluatie gebruikte leermiddelen’
+
+« Bij coaching van de medewerkers worden competentieprofielen gebruikt voor de (didactische) ict-
+
+kwaliteiten van docenten. (zie bijlage 3 en 4)
+
+44 Een plan voor de komende jaren
+
+2009-2010 (januari - juli)
+
+= De nota Denken én doen wordt besproken in
+de school, aangevuld en bijgesteld.
+
+= De schoolleiding gaat in gesprek met
+docenten, vakgroepen en teams om toe te
+lichten en te luisteren.
+
+= _ Het plan voor ict-coaches wordt uitgewerkt.
+Er wordt een keuze gemaakt voor coaches
+per team of voor een vakgroepencluster.
+
+: Het plan voor de infrastructuur wordt
+uitgewerkt.
+
+: _ Evaluatie van ervaringen met het gebruik
+van digitale materialen in het eerste leerjaar.
+Verwerking van de ervaringen in de plannen
+2010-2011.
+
+»=  Voorbereiding van de keuzes voor het
+tweede leerjaar, keuze van leermiddelen.
+
+=  Gerichte ondersteuning van de vakgroepen
+en teams (workshops,
+vakgroepbijeenkomsten met ondersteuning,
+good practices bespreken).
+
+2010-2011
+= _ Alle leerlingen van de eerste en tweede klas
+
+krijgen een persoonlijke laptop, evenals de leerlingen in de bovenhouw gtl en van enkele afdelingen
+bovenbouw bbl-kbl.
+
+« _ Van de betreffende klassen is 30-50% van het werkmateriaal/de werkboeken gedigitaliseerd, hetzij als
+invulbaar pdf, hetzij vervangen door ander materiaal (open materiaal, uitgeversmateriaal). Waar nodig
+en mogelijk worden alternatieve methodes gekozen.
+
+= n 50% van de instructieruimtes zijn digiborden geïnstalleerd.
+
+« Voor alle leerlingen worden in de elo aantekeningen, berekeningen, etc. die op of voor het digibord
+gemaakt zijn opgeslagen zodat een leerling de materialen kan nalezen. De leerlingen met een laptop
+kunnen de materialen op de eigen drager nakijken, de andere leerlingen kunnen het op een vaste pc of
+thuis benaderen.
+
+« Voor een aantal nader te bepalen klassen wordt de agendafunctie van de elo gebruikt.
+
+« _ De schoolleiding blijft n gesprek met docenten, vakgroepen en teams om de ontwikkelingen te
+ondersteunen.
+
+«  Gerichte ondersteuning van de vakgroepen en teams (wordt nog ingevuld).
+
+« _ Evaluatie van ervaringen, bijstelling van de plannen.
+
+2011-2012
+
+« _ Ook alle leerlingen van de derde klassen krijgen een persoonlijke laptop.
+
+« _ Van de betreffende klassen is 75-100% van het werkmateriaal/de werkboeken gedigitaliseerd, hetzij als
+invulbaar pdf, hetzij vervangen door ander materiaal (open materiaal, uitgeversmateriaal). Waar nodig
+en mogelijk worden alternatieve methodes gekozen.
+
+= _ In de instructieruimtes zijn digiborden geïnstalleerd.
+
+Materialen die op de digiborden gemaakt of gebruikt worden, worden in de elo geplaatst
+
+« De agendafunctie van de elo wordt voor alle klassen gebruikt.
+
+«  Gerichte ondersteuning van de vakgroepen en teams (wordt nog ingevuld).
+
+« _ Evaluatie van ervaringen, aanpassen van de plannen.
+
+2012-2013 en later
+
+Ook alle leerlingen van de vierde klassen krijgen een persoonlijke laptop. In de jaren daarna volgen
+gefaseerd ook de bovenbouw van havo en vwo.
+
+Van de betreffende klassen is 90-100% van het werkmateriaal/de werkboeken gedigitaliseerd, hetzij als
+invulbaar pdf, hetzij vervangen door ander materiaal (open materiaal, uitgeversmateriaal). Waar nodig en
+mogelijk worden alternatieve methodes gekozen.
+
+Voor deze periode wordt de verdere planvorming op een later moment uitgevoerd. Er mag worden
+aangenomen dat zich voor deze school nu nog niet goed voorspelbare ontwikkelingen rondom digitale
+leermiddelen hebben voltrokken.
+
+4.5 Een plan voor de financiering
+
+Er is in deze notitie voor gekozen om een ombuiging in het leermiddelenbudget te onderzoeken. Er is met
+name naar gekeken naar de vraag welke ruimte ontstaat als (een deel van) de werkboeken gedigitaliseerd
+wordt, onder gelijkblijvende overige omstandigheden. Hiervoor is een rekenmodel gemaakt dat uitgaat van
+de gemiddelde huidige kosten. Op basis van enkele aannames die hieronder geëxpliciteerd worden wordt
+het budget berekend dat voor arrangeren en aankopen van materialen beschikbaar is. De berekening zelf is
+opgenomen in bijlage 1.
+
+Er is uitgegaan van de gemiddelde kosten van een leermiddelenpakket zoals dat door de leverancier is
+aangegeven en het aantal leerlingen dat op grond van deze kosten een pakket heeft gekregen.
+
+De leverancier heeft aangegeven hoeveel de totale kosten van werkboeken voor een locatie zijn. Er is een
+gemiddeld bedrag per leerling per locatie berekend.
+
+Vervolgens zijn de ambities doorgerekend. In het model wordt er rekening mee gehouden dat het eerste jaar
+60% van de huidige (papieren) werkboeken in klas 1 en 2 nog gebruikt wordt, dat 20% van de werkboeken
+
+vervangen wordt door digitaal werkmateriaal en dat 20% vervangen wordt door een als pdf opgeslagen
+werkboek. Het (papieren) werkboek wordt afgeschreven in 4 jaar (zie toelichting in de kadertekst op blz. 8).
+Het is — voor het eerste jaar — een bescheiden stap. In de praktijk zouden meer werkboeken gedigitaliseerd
+kunnen worden, het beschikbare budget groeit dan.
+
+Uit de berekening in de bijlage wordt duidelijk dat er een budget voor digitale leermiddelen beschikbaar
+komt van € 229.991 in drie jaar, dat is een bedrag van ruim € 77.000 per jaar. De ‘winst’ van het derde jaar
+wordt hiertoe deels naar voren gehaald.
+
+Dit uit leermiddelen afkomstige budget zal niet onttrokken worden aan de leermiddelen maar op een andere
+
+manier worden ingezet.
+
+«  Voor arrangeren en ondersteunen
+Docenten wordt ruimte gegeven voor het arrangeren van materialen voor vakgroepen (vakkenclusters
+of domeinen) en het ondersteunen van een team en/of een vakgroep (vakkencluster of domein) bij de
+oriëntatie op en keuze van bestaande materialen.
+Hierbij wordt aangesloten bij de ervaring van de mensen die nu reeds bij DigilessenVO en Les2.0
+betrokken zijn. Deze personen kunnen ook betrokken worden bij deze taken. Zie ook de kadertekst op
+blz. 10.
+
+« Het aanschaffen van door anderen vervaardigd materiaal (licenties).
+
+In de gesprekken met
+vakgroepen en teams is de
+keuze van de leermiddelen en
+de manier van ondersteunen
+onderwerp van gesprek.
+
+totaal per jaar
+
+
+Daarnaast moet er rekening mee worden gehouden dat de nieuwe laptops en digiborden ook kosten met zich
+meebrengen. Deze kosten zijn voor een groot deel al in de meerjarenbegroting opgenomen. Nog niet
+opgenomen is de aanstelling van een ‘laptopdokter’. De kosten van deze medewerker (een functie voor een
+starter op mbo-niveau (niv.3 of 4) worden — mede afhankelijk van de omvang van de functie - geschat op €
+20.000 - € 30.000.- (schaal 5,
+
+4.6 Monitoring en evaluatie
+
+De doelstellingen worden per jaar geoperationaliseerd en opgenomen in de locatie-beleidscyclus.
+
+De schoolleiding neemt het onderwerp op in het lijstje aandachtspunten voor de gesprekken met
+vakgroepen en de voortgangs-, functionerings- en POP-gesprekken. Bij de gesprekken worden de ict-
+competentieprofielen (bijlagen 3 en 4) gebruikt.
+
+De afdelingsleiding heeft gesprekken met leerlingen, 0a. over het gebruik van de leermiddelen.
+
+5. Conclusie
+
+De ‘gratis’ leermiddelen zien we als een goede kans om het gesprek over de kwaliteit van
+leermiddelen en daarmee het gesprek over de kwaliteit van een impuls te geven. Bij het zoeken
+naar leermiddelen die recht doen aan de verschillen tussen leerlingen komt men in de eerste
+plaats terecht bij het zoeken naar variëteit in werkvormen en vervolgens bij de extra
+mogelijkheden die digitale leermiddelen kunnen bieden.
+
+Door voorlopig te kiezen voor een folio (papieren) theorieboek wordt continuïteit in de opleiding geborgd.
+De variatie en het maatwerk kunnen — voorlopig? - aangebracht worden in de werkmaterialen. Binnen het
+leermiddelenbudget kan geschoven worden waardoor er middelen vrij komen voor nieuwe, digitale
+materialen.
+
+Het gesprek over de keuze van deze materialen en het gebruik ervan scherpt het kwaliteitsdenken. De
+feitelijke ambitie ligt niet in de aanschaf van digitale leermiddelen, maar in het gesprek over leermiddelen
+en onderwijskwaliteit.
