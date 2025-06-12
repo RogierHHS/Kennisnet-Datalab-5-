@@ -6,7 +6,7 @@ import os
 import json
 from datetime import datetime
 
-# ============ SETTINGS ============ 
+# ============ SETTINGS ============
 CHATDIR = "chats"
 if not os.path.exists(CHATDIR):
     os.makedirs(CHATDIR)
@@ -38,23 +38,6 @@ class OpenAIChatbot:
         print(f"{len(kennisbank)} beleidsvoorbeelden geladen!")
         return kennisbank
 
-    def _zoek_inspiratie(self, vraag):
-        resultaten = []
-        for doc in self.kennisbank.values():
-            for para in doc.split('\n\n'):
-                if any(kw.lower() in para.lower() for kw in vraag.split()):
-                    resultaten.append(para.strip())
-        return resultaten[:3]
-
-    def _calculate_cost(self, response):
-        usage = response.usage
-        input_tokens = usage.prompt_tokens
-        output_tokens = usage.completion_tokens
-        input_cost = (input_tokens / 1_000_000) * 5
-        output_cost = (output_tokens / 1_000_000) * 15
-        total = input_cost + output_cost
-        return total
-
     def ask(self, user_input):
         self.history.append({"role": "user", "content": user_input})
         response = self.client.chat.completions.create(
@@ -67,6 +50,15 @@ class OpenAIChatbot:
         cost = self._calculate_cost(response)
         self.total_cost += cost
         return answer, cost, self.total_cost
+
+    def _calculate_cost(self, response):
+        usage = response.usage
+        input_tokens = usage.prompt_tokens
+        output_tokens = usage.completion_tokens
+        input_cost = (input_tokens / 1_000_000) * 5
+        output_cost = (output_tokens / 1_000_000) * 15
+        total = input_cost + output_cost
+        return total
 
 # ============ MEMORY MANAGEMENT ============
 def get_chat_ids_and_titles():
@@ -159,19 +151,21 @@ if st.sidebar.button("Start nieuw gesprek"):
 if "active_chat_id" not in st.session_state:
     st.session_state["active_chat_id"] = None
 
-if chosen is None or not api_key:
-    if "messages" not in st.session_state:
-        st.session_state["messages"] = []
-    if "costs" not in st.session_state:
-        st.session_state["costs"] = []
-    st.session_state["active_chat_id"] = None
-else:
-    # Laad bestaande chat
+# Alleen als gebruiker een chat kiest, laad deze. Anders, nieuwe chat (en onthoud die id!)
+if chosen is not None and api_key:
     if st.session_state.get("active_chat_id") != chosen:
         history = load_history(chosen)
         st.session_state["messages"] = history
         st.session_state["costs"] = []
         st.session_state["active_chat_id"] = chosen
+else:
+    # Als er nog geen chat actief is, maak er één aan bij eerste input
+    if "messages" not in st.session_state or not st.session_state["messages"]:
+        st.session_state["messages"] = []
+    if "costs" not in st.session_state:
+        st.session_state["costs"] = []
+    if "active_chat_id" not in st.session_state or st.session_state["active_chat_id"] is None:
+        st.session_state["active_chat_id"] = None
 
 # ---- Chatbot instance ----
 if "chatbot" not in st.session_state or st.session_state["chatbot"] is None:
@@ -212,14 +206,13 @@ with st.form(key="chat_form", clear_on_submit=True):
     )
     submitted = st.form_submit_button("Verstuur")
 
-    # ------------- FIX: garandeer chatbot instance ---------
+    # FIX: garandeer chatbot instance
     if (
         "chatbot" not in st.session_state
         or st.session_state["chatbot"] is None
     ):
         if api_key:
             st.session_state["chatbot"] = OpenAIChatbot(api_key=api_key, history=st.session_state.get("messages", []))
-    # -------------------------------------------------------
 
     if (
         submitted
@@ -232,6 +225,8 @@ with st.form(key="chat_form", clear_on_submit=True):
         st.session_state["messages"].append({"role": "user", "content": user_input})
         st.session_state["messages"].append({"role": "assistant", "content": answer})
         st.session_state["costs"].append(cost)
+
+        # **Alleen een nieuwe chat_id aanmaken als er nog GEEN is**
         if not st.session_state.get("active_chat_id"):
             chat_id = new_chat_id()
             st.session_state["active_chat_id"] = chat_id

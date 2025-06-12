@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "test test"
+  },
+  {
+    "role": "assistant",
+    "content": "Hallo! Welkom bij de chatbot voor het opstellen van een concept-leermiddelenbeleid. We gaan samen werken aan een gestructureerd beleid voor jouw school die voldoet aan de behoeften en visie van jullie organisatie. Dit proces duurt gemiddeld een dagdeel en het is handig om dit samen met een werkgroep te doen, zoals een schoolleider of ICT-coördinator. Zorg dat je documenten zoals het koersplan en ICT-beleid bij de hand hebt.\n\nLaten we beginnen met een paar basisvragen over jouw school:\n\n- Wat is de naam van je school?\n- In welke plaats is de school gevestigd?\n- Wat voor type onderwijs biedt de school aan?\n\nZodra ik deze informatie heb, kunnen we verder met het proces. Is deze uitleg duidelijk en wil je beginnen? Ja/Nee"
+  },
+  {
+    "role": "user",
+    "content": "laten we beginne"
+  },
+  {
+    "role": "assistant",
+    "content": "Prima! Laten we beginnen.  \n\nKun je alstublieft de volgende details over jouw school geven?\n\n- **Naam van de school**  \n- **Plaats waar de school zich bevindt**  \n- **Type onderwijs dat de school biedt**  \n\nDeze basisinformatie helpt ons om een meer gepersonaliseerd leermiddelenbeleid te creëren. Zodra je deze gegevens hebt verstrekt en bevestigd, gaan we van start met Hoofdstuk 1. Is dat duidelijk? Ja/Nee"
+  }
+]
