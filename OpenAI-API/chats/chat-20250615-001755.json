@@ -1,0 +1,42 @@
+[
+  {
+    "role": "user",
+    "content": "Hallo!, (test na het toevoegen van de hyperparameters)"
+  },
+  {
+    "role": "assistant",
+    "content": "Hallo! We gaan samen werken aan het opstellen van een concept-leermiddelenbeleid voor jouw school. Het proces bestaat uit verschillende hoofdstukken met gerichte vragen, en na elk hoofdstuk krijg je de kans om de antwoorden te controleren en aan te passen. Een volledig beleid opstellen duurt gemiddeld een dagdeel, afhankelijk van de voorbereiding en samenwerking met een werkgroep, zoals een schoolleider, ICT-coördinator of leermiddelencoördinator.\n\nVoordat we beginnen, is het handig om bepaalde documenten bij de hand te hebben, zoals het koersplan, ICT-beleid of jaarplannen. Deze kunnen tijdens het proces nuttig zijn voor een persoonlijk resultaat. Je kunt ze ook uploaden wanneer nodig.\n\nLaten we starten met de basisinformatie:\n\n1. **Schoolnaam:**\n2. **Locatie:**\n3. **Type onderwijs:** (bijv. basisonderwijs, voortgezet onderwijs)\n\nIs deze informatie correct? Ja/Nee"
+  },
+  {
+    "role": "user",
+    "content": "Jacob van liesveldt  in hellevoetsluis (voortegezetonderwijs) ik heb geen beschikbare documenten om toe te voegen"
+  },
+  {
+    "role": "assistant",
+    "content": "Bedankt voor de informatie!\n\n- **Schoolnaam:** Jacob van Liesveldt\n- **Locatie:** Hellevoetsluis\n- **Type onderwijs:** Voortgezet onderwijs\n\nIs dit correct? Ja/Nee"
+  },
+  {
+    "role": "user",
+    "content": "yes"
+  },
+  {
+    "role": "assistant",
+    "content": "Geweldig, laten we beginnen met het opstellen van het leermiddelenbeleid.\n\n### Hoofdstuk 1: Aanleiding, reikwijdte en doel\n\n#### 1.1 Aanleiding\n\n- Wat is de directe aanleiding voor het opstellen van een (nieuw) leermiddelenbeleid? Denk aan strategische doelen, evaluatie van huidige middelen, of opbrengsten (interne factoren).\n- Zijn er wettelijke of aanbestedingseisen die om een (vernieuwd) leermiddelenbeleid vragen? Denk aan aanbestedingsplicht, nieuwe onderwijstrends of een veranderd curriculum (externe factoren).\n\nGeef je antwoorden puntsgewijs."
+  },
+  {
+    "role": "user",
+    "content": "Directe aanleiding: We willen ons leermiddelenbeleid vernieuwen omdat er een evaluatie van het huidige beleid is geweest. Daaruit kwamen punten naar voren die vragen om bijstelling, zoals de balans tussen digitale en papieren middelen en het eigenaarschap bij docenten. Externe factoren: Er zijn ontwikkelingen in het curriculum en landelijke richtlijnen waar we rekening mee moeten houden. Daarnaast speelt ook de aanbestedingsplicht mee. Interne ontwikkelingen / strategische doelen: We willen als school meer regie houden op de leermiddelenkeuze, beter inspelen op digitalisering en tegelijkertijd letten op kosten en gebruiksvriendelijkheid voor leerlingen en docenten."
+  },
+  {
+    "role": "assistant",
+    "content": "### Hoofdstuk 1: Aanleiding, reikwijdte en doel\n\n#### 1.1 Aanleiding\n\nDe directe aanleiding voor het vernieuwen van ons leermiddelenbeleid is een evaluatie van het huidige beleid. Uit deze evaluatie kwamen verbeterpunten naar voren, zoals de balans tussen digitale en papieren leermiddelen, en het vergroten van eigenaarschap bij docenten. \n\nDaarnaast zijn er externe factoren die het opstellen van een vernieuwd leermiddelenbeleid noodzakelijk maken. Er zijn ontwikkelingen in het curriculum en landelijke richtlijnen die we in ons beleid willen opnemen. Ook speelt de aanbestedingsplicht een rol in onze overwegingen.\n\nVanuit interne ontwikkelingen en strategische doelen wil de school meer regie over de keuze van leermiddelen. Het is belangrijk om in te spelen op de digitalisering, met oog voor kosten en gebruiksvriendelijkheid voor zowel leerlingen als docenten.\n\nBen je tevreden met deze tekst? Wil je aanpassen?"
+  },
+  {
+    "role": "user",
+    "content": "zou je de tekst langer kunnen maken?"
+  },
+  {
+    "role": "assistant",
+    "content": "### Hoofdstuk 1: Aanleiding, reikwijdte en doel\n\n#### 1.1 Aanleiding\n\nDe directe aanleiding voor het vernieuwen van ons leermiddelenbeleid is het resultaat van een uitgebreide evaluatie van ons huidige beleid. Deze evaluatie heeft verschillende belangrijke thema's aan het licht gebracht die om aanpassing en verbetering vragen. Een van de hoofdpunten was de balans tussen digitale en papieren leermiddelen. Er is een toenemende behoefte om deze balans te optimaliseren om zo de effectiviteit van ons onderwijs te maximaliseren. Daarnaast willen we het eigenaarschap bij docenten vergroten, zodat zij meer invloed hebben op de leermiddelen die ze in hun onderwijs gebruiken, wat hun professionele autonomie en betrokkenheid ten goede komt.\n\nExterne factoren spelen eveneens een cruciale rol. Er zijn significante ontwikkelingen in het curriculum die het noodzakelijk maken om ons leermiddelenbeleid aan te passen aan de nieuwe onderwijseisen en richtlijnen. Verder zijn er landelijke richtlijnen die onze aanpak beïnvloeden, evenals de eis tot aanbesteding die voortkomt uit wettelijke verplichtingen. Deze factoren dwingen ons om ons beleid te herzien en te aligneren met de bredere context waarin we opereren.\n\nOp strategisch niveau, willen we als school een koers varen waarbij we meer regie hebben over de keuze van leermiddelen. Dit past binnen onze bredere doelstelling om effectiever in te spelen op digitaliseringstrends, zonder de economische aspecten uit het oog te verliezen. We streven ernaar kosten te beheersen, terwijl we tegelijkertijd zorgen voor de gebruiksvriendelijkheid van leermiddelen voor zowel leerlingen als docenten. Door deze regie te versterken, hopen we op een duurzamere en meer geïntegreerde aanpak die aan de behoeften van onze schoolgemeenschap voldoet.\n\nBen je tevreden met deze uitgebreidere tekst? Wil je aanpassen?"
+  }
+]

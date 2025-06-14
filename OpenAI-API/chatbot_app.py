@@ -21,6 +21,12 @@ class OpenAIChatbot:
         self.total_cost = 0.0
         self.kennisbank = self._load_beleidsvoorbeelden("Beleidsvoorbeelden")
 
+        # Gekozen hyperparameters
+        self.temperature = 1.0
+        self.top_p = 1.0
+        self.frequency_penalty = 0.0
+        self.presence_penalty = 1.0
+
     def _get_system_prompt(self):
         with open("system-prompts.txt", encoding="utf-8") as f:
             system_prompt = f.read()
@@ -147,11 +153,11 @@ if st.sidebar.button("Start nieuw gesprek"):
     st.session_state["chatbot"] = None
     st.rerun()
 
-# ---- Start nieuwe chat of laad bestaande ----
+# Start nieuwe chat of laad een bestaande chat
 if "active_chat_id" not in st.session_state:
     st.session_state["active_chat_id"] = None
 
-# Alleen als gebruiker een chat kiest, laad deze. Anders, nieuwe chat (en onthoud die id!)
+# Alleen als gebruiker een chat kiest, laad deze. Anders, nieuwe chat
 if chosen is not None and api_key:
     if st.session_state.get("active_chat_id") != chosen:
         history = load_history(chosen)
@@ -167,7 +173,7 @@ else:
     if "active_chat_id" not in st.session_state or st.session_state["active_chat_id"] is None:
         st.session_state["active_chat_id"] = None
 
-# ---- Chatbot instance ----
+# Chatbot instance
 if "chatbot" not in st.session_state or st.session_state["chatbot"] is None:
     if api_key:
         st.session_state["chatbot"] = OpenAIChatbot(api_key=api_key, history=st.session_state.get("messages", []))
@@ -178,7 +184,7 @@ elif (
 ):
     st.session_state["chatbot"] = OpenAIChatbot(api_key=api_key, history=st.session_state.get("messages", []))
 
-# ---- Chatgeschiedenis tonen ----
+# Chatgeschiedenis tonen
 def show_chat():
     for i, msg in enumerate(st.session_state["messages"]):
         if msg["role"] == "user":
@@ -195,7 +201,7 @@ def show_chat():
             st.markdown("<hr>", unsafe_allow_html=True)
 show_chat()
 
-# ---- Inputveld met ENTER/submit (géén button), leeg na verzenden ----
+# Inputveld met ENTER/submit, legen van de invoer na verzenden
 with st.form(key="chat_form", clear_on_submit=True):
     user_input = st.text_input(
         "Typ je bericht en druk op Enter...",
